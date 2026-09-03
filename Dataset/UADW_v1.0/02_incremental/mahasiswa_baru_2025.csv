@@ -1,0 +1,551 @@
+nim,nama,jk_raw,tanggal_lahir_raw,kota_asal_raw,kode_prodi_raw,prodi_raw,angkatan,tanggal_masuk_raw,status_raw,email_kampus
+25TI0001,Rahmat Aziz,P,2006-10-25,Palembang,TI,Teknologi Informasi,2025,2025-08-23,Aktif,25ti0001@student.uadw.ac.id
+25TI0002,Farhan Febriani Hasan,M,2008-05-24,Bandung,TI,Teknologi Informasi,2025,2025-08-16,Aktif,25ti0002@student.uadw.ac.id
+25TI0003,Grace Anggraini Azzahra,P,2006-11-18,Ambon,TI,Tek. Informasi,2025,24-Aug-2025,Aktif,25ti0003@student.uadw.ac.id
+25TI0004,Wulan Hakim Iskandar,L,2007-02-15,Yogyakarta,TI,Teknologi Informasi,2025,22-Aug-2025,Aktif,25ti0004@student.uadw.ac.id
+25TI0005,Muhammad Hidayat,L,23-Jul-2007,Mataram,TI,Teknologi Informasi,2025,16/08/2025,Aktif,25ti0005@student.uadw.ac.id
+25TI0006,Aulia Permana,M,2005-03-10,Padang,TI,Teknologi Informasi,2025,2025-08-21,Aktif,25ti0006@student.uadw.ac.id
+25TI0007,Akbar Ningsih Azzahra,P,19-Jun-2006,Kolaka,TI,Teknologi Informasi,2025,2025-08-23,Aktif,25ti0007@student.uadw.ac.id
+25TI0008,Dimas Firmansyah,P,2006-06-08,Banda Aceh,TI,Teknologi Informasi,2025,18/08/2025,Aktif,25ti0008@student.uadw.ac.id
+25TI0009,Akbar Maulana,L,2006-06-11,Makassar,TI,Teknologi Informasi,2025,2025-08-22,Aktif,25ti0009@student.uadw.ac.id
+25TI0010,Galih Kurniawan Nasution,L,2006-02-03,Gorontalo,TI,Teknologi Informasi,2025,15/08/2025,Aktif,25ti0010@student.uadw.ac.id
+25TI0011,Aulia Putra,L,2006-10-11,Unaaha,TI,Teknologi Informasi,2025,2025-08-21,Aktif,25ti0011@student.uadw.ac.id
+25TI0012,Nabila Utami,P,2005-02-16,Yogyakarta,TI,Teknologi Informasi,2025,2025-08-18,Aktif,25ti0012@student.uadw.ac.id
+25TI0013,Siti Sari Nugroho,L,15/09/2008,Raha,ti,Teknologi Informasi,2025,2025-08-25,Aktif,25ti0013@student.uadw.ac.id
+25TI0014,Nisa Rasyid Melati,P,2006-04-19,Makassar,TI,Teknologi Informasi,2025,2025-08-24,Aktif,25ti0014@student.uadw.ac.id
+25TI0015,Lukman Sari,L,2008-06-19,Mataram,TI,Teknologi informasi,2025,2025-08-20,Aktif,25ti0015@student.uadw.ac.id
+25TI0016,Iqbal Kurniawan,P,27/11/2007,Kendari,TI,Teknologi Informasi,2025,16/08/2025,Aktif,25ti0016@student.uadw.ac.id
+25TI0017,Lukman Nugraha,L,2006-04-01,Kolaka,TI,Teknologi Informasi,2025,2025-08-18,Aktif,25ti0017@student.uadw.ac.id
+25TI0018,Maya Wijaya,L,2007-01-24,Banda Aceh,TI,Teknologi Informasi,2025,22/08/2025,Aktif,25ti0018@student.uadw.ac.id
+25TI0019,Akbar Nugraha Sulaiman,L,2007-08-17,Surabaya,TI,Teknologi Informasi,2025,2025-08-16,Aktif,25ti0019@student.uadw.ac.id
+25TI0020,Rahmat Setiawan Prasetyo,Perempuan,2006-11-22,Bandung,TI,Teknologi Informasi,2025,2025-08-21,Aktif,25ti0020@student.uadw.ac.id
+25TI0021,Nur Putri,Perempuan,27-Apr-2005,Palembang,TI,Teknologi Informasi,2025,18/08/2025,Aktif,25ti0021@student.uadw.ac.id
+25TI0022,Bima Yusuf Syahputra,Perempuan,2007-06-11,Yogyakarta,TI,Teknologi Informasi,2025,2025-08-15,Aktif,25ti0022@student.uadw.ac.id
+25TI0023,Rizky Ningsih Safitri,P,2008-12-05,Raha,TI,TI,2025,25/08/2025,Aktif,25ti0023@student.uadw.ac.id
+25TI0024,Galih Rasyid Sulaiman,P,2006-02-20,Surabaya,TI,Teknologi Informasi,2025,2025-08-17,Aktif,25ti0024@student.uadw.ac.id
+25TI0025,Fauzan Maulana Nasution,P,2007-05-10,Semarang,TI,Teknologi informasi,2025,2025-08-18,Aktif,25ti0025@student.uadw.ac.id
+25TI0026,Vina Putri,Perempuan,2008-11-01,Kolaka,TI,Teknologi Informasi,2025,17/08/2025,Aktif,25ti0026@student.uadw.ac.id
+25TI0027,Raka Aziz,Laki-laki,06-Dec-2006,Bandung,TI,Teknologi Informasi,2025,2025-08-22,Aktif,25ti0027@student.uadw.ac.id
+25TI0028,Fitri Hakim Hasan,Laki-laki,2006-03-15,Medan,TI,Teknologi informasi,2025,16/08/2025,Aktif,25ti0028@student.uadw.ac.id
+25TI0029,Arif Kurniawan Kurniadi,M,2007-05-13,Bandung,TI,Tek. Informasi,2025,2025-08-23,Aktif,25ti0029@student.uadw.ac.id
+25TI0030,Reza Wijaya Permatasari,P,2006-09-26,Padang,TI,Teknologi Informasi,2025,2025-08-15,Aktif,25ti0030@student.uadw.ac.id
+25TI0031,Rafi Utami Wardana,P,2006-03-08,Medan,TI,Teknologi Informasi,2025,2025-08-22,Aktif,25ti0031@student.uadw.ac.id
+25TI0032,Ahmad Kurniawan,L,2008-05-20,Gorontalo,TI,Teknologi Informasi,2025,19/08/2025,Aktif,25ti0032@student.uadw.ac.id
+25TI0033,Aulia Ningsih,P,11/07/2005,Palu,TI,TI,2025,2025-08-17,Aktif,25ti0033@student.uadw.ac.id
+25TI0034,Fajar Saputra Wibowo,L,2006-08-28,Makassar,TI,Teknologi Informasi,2025,18-Aug-2025,Aktif,25ti0034@student.uadw.ac.id
+25TI0035,Rahmat Hidayat,L,2008-03-24,Medan,TI,Teknologi Informasi,2025,19/08/2025,Aktif,25ti0035@student.uadw.ac.id
+25TI0036,Farhan Kurniawan,Perempuan,02/05/2007,Palembang,TI,Teknologi Informasi,2025,24/08/2025,Aktif,25ti0036@student.uadw.ac.id
+25TI0037,Nisa Kurniawan,P,2006-11-11,Manado,TI,Teknologi Informasi,2025,2025-08-25,Aktif,25ti0037@student.uadw.ac.id
+25TI0038,Wulan Maharani,Laki-laki,2007-11-26,Yogyakarta,TI,Teknologi Informasi,2025,2025-08-25,Aktif,25ti0038@student.uadw.ac.id
+25TI0039,Wulan Anggraini,M,2007-01-24,Kendari,TI,Teknologi Informasi,2025,2025-08-25,Aktif,25ti0039@student.uadw.ac.id
+25TI0040,Raka Ramadhan,P,07/03/2007,Yogyakarta, TI,Teknologi informasi,2025,2025-08-18,Aktif,25ti0040@student.uadw.ac.id
+25TI0041,Siti Permana Oktaviani,P,07-Sep-2007,Yogyakarta,TI,Teknologi Informasi,2025,2025-08-18,Aktif,25ti0041@student.uadw.ac.id
+25TI0042,Rafi Ramadhan Mahendra,L,05/09/2005,Kolaka,TI,Teknologi Informasi,2025,2025-08-17,Aktif,25ti0042@student.uadw.ac.id
+25TI0043,Rani Permana Nugroho,L,2006-07-15,Yogyakarta,TI,Teknologi Informasi,2025,22/08/2025,Aktif,25ti0043@student.uadw.ac.id
+25TI0044,Taufik Rasyid,P,2006-04-07,Medan,TI,Teknologi Informasi,2025,24/08/2025,Aktif,25ti0044@student.uadw.ac.id
+25TI0045,Bagas Pratama Mulyani,Perempuan,28-Jan-2007,Gorontalo,TI ,TI,2025,2025-08-23,Aktif,25ti0045@student.uadw.ac.id
+25TI0046,Vina Firmansyah,L,2008-07-10,Makassar,TI ,Teknologi Informasi,2025,2025-08-19,Aktif,25ti0046@student.uadw.ac.id
+25TI0047,Bima Saputra Susanti,P,2006-09-23,Unaaha,TI,Teknologi Informasi,2025,15/08/2025,Aktif,25ti0047@student.uadw.ac.id
+25TI0048,Bagas Setiawan Fadillah,Perempuan,08/03/2007,Kendari,TI,Teknologi Informasi,2025,22/08/2025,Aktif,25ti0048@student.uadw.ac.id
+25TI0049,Aditya Saputra,L,22-Feb-2007,Medan,TI,Teknologi Informasi,2025,2025-08-17,Aktif,25ti0049@student.uadw.ac.id
+25TI0050,Grace Aziz Siregar,L,2007-09-16,Makassar,TI,Teknologi Informasi,2025,2025-08-18,Aktif,25ti0050@student.uadw.ac.id
+25TI0051,Putri Santoso,P,2007-06-18,Ambon,TI,Teknologi Informasi,2025,2025-08-20,Aktif,25ti0051@student.uadw.ac.id
+25TI0052,Anisa Kurniawan,L,2005-09-26,Kendari,TI,Teknologi Informasi,2025,24/08/2025,Aktif,25ti0052@student.uadw.ac.id
+25TI0053,Zahra Pratama,M,2006-08-11,Gorontalo, TI,Teknologi Informasi,2025,17/08/2025,Aktif,25ti0053@student.uadw.ac.id
+25TI0054,Nur Sari Halim,P,2006-06-15,Gorontalo,TI ,Teknologi Informasi,2025,2025-08-25,Aktif,25ti0054@student.uadw.ac.id
+25TI0055,Hafiz Wijaya Sulaiman,P,12-Aug-2007,Palembang,TI,Teknologi Informasi,2025,2025-08-20,Aktif,25ti0055@student.uadw.ac.id
+25TI0056,Muhammad Amelia,L,2008-06-01,Wakatobi,TI,TEKNOLOGI INFORMASI,2025,2025-08-19,Aktif,25ti0056@student.uadw.ac.id
+25TI0057,Tiara Sari,L,06/09/2008,Padang,TI,Teknologi Informasi,2025,2025-08-25,Aktif,25ti0057@student.uadw.ac.id
+25TI0058,Nur Utami Melati,L,2006-12-01,Bandung,TI,Tek. Informasi,2025,2025-08-23,Aktif,25ti0058@student.uadw.ac.id
+25TI0059,Bima Pratama Fadillah,L,2006-03-11,Wakatobi,TI,Teknologi informasi,2025,22-Aug-2025,Aktif,25ti0059@student.uadw.ac.id
+25TI0060,Tiara Hakim Setiaji,Laki-laki,15/01/2007,Kolaka,TI,Teknologi Informasi,2025,24-Aug-2025,Aktif,25ti0060@student.uadw.ac.id
+25TI0061,Ilham Santoso,Laki-laki,2007-10-01,Yogyakarta,TI,Teknologi Informasi,2025,2025-08-16,Aktif,25ti0061@student.uadw.ac.id
+25TI0062,Samuel Purnama,L,2006-09-05,Banda Aceh,ti,Teknologi Informasi,2025,16/08/2025,Aktif,25ti0062@student.uadw.ac.id
+25TI0063,Andi Hidayat Safitri,Laki-laki,2008-02-14,Bandung,TI,Teknologi Informasi,2025,2025-08-16,Aktif,25ti0063@student.uadw.ac.id
+25TI0064,Wulan Amelia,P,19-Mar-2005,Kolaka,TI,Teknologi Informasi,2025,2025-08-18,Aktif,25ti0064@student.uadw.ac.id
+25TI0065,Anisa Nugraha Kusuma,L,2007-11-07,Unaaha,TI,Tek. Informasi,2025,2025-08-20,Aktif,25ti0065@student.uadw.ac.id
+25TI0066,Andi Febriani Setiaji,P,2008-06-24,Unaaha,TI,Teknologi Informasi,2025,2025-08-22,Aktif,25ti0066@student.uadw.ac.id
+25TI0067,Dian Setiawan Pamungkas,P,2008-08-16,Makassar,TI,Teknologi Informasi,2025,2025-08-19,Aktif,25ti0067@student.uadw.ac.id
+25TI0068,Siti Santoso,L,18/08/2007,Ambon,TI,Teknologi Informasi,2025,2025-08-15,Aktif,25ti0068@student.uadw.ac.id
+25TI0069,Rina Utami,P,2007-01-06,,TI,Teknologi Informasi,2025,2025-08-22,Aktif,25ti0069@student.uadw.ac.id
+25TI0070,Lukman Wahyuni Halim,P,03/10/2007,Yogyakarta,TI,Teknologi Informasi,2025,2025-08-17,Aktif,25ti0070@student.uadw.ac.id
+25TI0071,Fauzan Putra Syahputra,L,2006-05-23,Wakatobi,TI,Teknologi Informasi,2025,23/08/2025,Aktif,25ti0071@student.uadw.ac.id
+25TI0072,Fajar Ananda,L,22-Sep-2006,Surabaya,TI,Teknologi Informasi,2025,2025-08-18,Aktif,25ti0072@student.uadw.ac.id
+25TI0073,Farhan Setiawan Permatasari,Perempuan,2007-07-14,Banda Aceh,TI,Teknologi Informasi,2025,23/08/2025,Aktif,25ti0073@student.uadw.ac.id
+25TI0074,Dimas Febriani Prasetyo,L,2007-11-21,Makassar,TI,Teknologi Informasi,2025,2025-08-18,Aktif,25ti0074@student.uadw.ac.id
+25TI0075,Dimas Purnama,P,2007-11-26,Medan,TI,Teknologi Informasi,2025,16-Aug-2025,Aktif,25ti0075@student.uadw.ac.id
+25TI0076,Andi Permana Kurniadi,Laki-laki,2007-11-04,Banda Aceh,TI,Teknologi Informasi,2025,2025-08-19,Aktif,25ti0076@student.uadw.ac.id
+25TI0077,Raka Firmansyah Kurniadi,L,2008-11-04,Padang,TI,Teknologi Informasi,2025,2025-08-18,Aktif,25ti0077@student.uadw.ac.id
+25TI0078,Siti Maharani Syahputra,P,2005-02-01,Manado,ti,Tek. Informasi,2025,2025-08-25,Aktif,25ti0078@student.uadw.ac.id
+25TI0079,Alya Fauzi,P,2006-11-13,Palembang,TI,Teknologi Informasi,2025,19/08/2025,Aktif,25ti0079@student.uadw.ac.id
+25TI0080,Yoga Febriani,L,2006-06-25,Medan,TI,Teknologi Informasi,2025,19/08/2025,Aktif,25ti0080@student.uadw.ac.id
+25TI0081,Yoga Aziz Maulida,L,28/10/2006,Bandung,TI,Teknologi Informasi,2025,2025-08-23,Aktif,25ti0081@student.uadw.ac.id
+25TI0082,Iqbal Aziz,P,18/09/2007,Baubau,TI,Teknologi Informasi,2025,2025-08-22,Aktif,25ti0082@student.uadw.ac.id
+25TI0083,Rina Ananda,P,2007-04-21,Mataram,TI,Teknologi Informasi,2025,2025-08-25,Aktif,25ti0083@student.uadw.ac.id
+25TI0084,Raka Hakim,P,10/06/2006,Baubau,TI,Teknologi Informasi,2025,18/08/2025,Aktif,25ti0084@student.uadw.ac.id
+25TI0085,Hafiz Hidayat Halim,P,2007-07-06,Ambon,TI,Teknologi Informasi,2025,2025-08-20,Aktif,25ti0085@student.uadw.ac.id
+25TI0086,Rani Pratama Safitri,L,2006-10-21,Palu,ti,Teknologi Informasi,2025,2025-08-15,Aktif,25ti0086@student.uadw.ac.id
+25TI0087,Fajar Putra Permatasari,P,2007-12-26,Medan,TI,Teknologi informasi,2025,2025-08-20,Aktif,25ti0087@student.uadw.ac.id
+25TI0088,Salma Firmansyah Oktaviani,Perempuan,2007-08-06,Baubau,TI,Teknologi informasi,2025,2025-08-25,Aktif,25ti0088@student.uadw.ac.id
+25TI0089,Akbar Maulana,P,13/09/2006,Baubau,TI,Teknologi Informasi,2025,2025-08-24,Aktif,25ti0089@student.uadw.ac.id
+25TI0090,Zahra Wahyuni Karim,L,2007-02-17,Unaaha,TI,Teknologi Informasi,2025,2025-08-18,Aktif,25ti0090@student.uadw.ac.id
+25TI0091,Zahra Maharani,L,2005-04-19,Semarang,TI,Teknologi Informasi,2025,2025-08-21,Aktif,25ti0091@student.uadw.ac.id
+25TI0092,Rahmat Lestari,Laki-laki,2008-04-23,,TI,Teknologi Informasi,2025,2025-08-24,Aktif,25ti0092@student.uadw.ac.id
+25TI0093,Iqbal Hidayat Nugroho,L,2006-03-28,Ambon,TI,TI,2025,2025-08-20,Aktif,25ti0093@student.uadw.ac.id
+25TI0094,Galih Setiawan Oktaviani,L,2005-02-22,Yogyakarta,TI,Tek. Informasi,2025,2025-08-24,Aktif,25ti0094@student.uadw.ac.id
+25TI0095,Aulia Kurniawan,P,2006-07-19,Semarang,TI,Teknologi Informasi,2025,2025-08-19,Aktif,25ti0095@student.uadw.ac.id
+25TI0096,Syifa Wijaya Fadillah,P,2005-05-15,Gorontalo,TI,Teknologi Informasi,2025,19/08/2025,Aktif,25ti0096@student.uadw.ac.id
+25TI0097,Vina Wahyuni,P,2007-09-23,Padang,TI,Teknologi Informasi,2025,2025-08-21,Aktif,25ti0097@student.uadw.ac.id
+25TI0098,Nisa Nugraha Azzahra,L,2008-12-15,Palu,TI,Teknologi Informasi,2025,2025-08-20,Aktif,25ti0098@student.uadw.ac.id
+25TI0099,Vina Febriani Syahputra,F,2007-08-13,Makassar,TI,Teknologi Informasi,2025,24/08/2025,Aktif,25ti0099@student.uadw.ac.id
+25TI0100,Grace Saputra,L,2006-07-02,Raha,TI,Teknologi Informasi,2025,2025-08-20,Aktif,25ti0100@student.uadw.ac.id
+25TI0101,Kevin Amelia,L,2007-11-18,Unaaha,TI,Teknologi Informasi,2025,16/08/2025,Aktif,25ti0101@student.uadw.ac.id
+25TI0102,Farhan Pratama,L,2005-10-24,Padang,TI,Teknologi Informasi,2025,2025-08-15,Aktif,25ti0102@student.uadw.ac.id
+25TI0103,Bagas Maulana Permatasari,L,2006-04-23,Yogyakarta,TI,Teknologi Informasi,2025,2025-08-18,Aktif,25ti0103@student.uadw.ac.id
+25TI0104,Syifa Ningsih,Perempuan,19/10/2007,Palembang,TI,Teknologi Informasi,2025,2025-08-20,Aktif,25ti0104@student.uadw.ac.id
+25SI0001,Dian Hakim Azzahra,P,2007-05-17,Makassar,SI,Sistem Informasi,2025,2025-08-19,Aktif,25si0001@student.uadw.ac.id
+25SI0002,Intan Firmansyah Gunawan,P,2005-02-21,Semarang,SI,Sistem Informasi,2025,20-Aug-2025,Aktif,25si0002@student.uadw.ac.id
+25SI0003,Samuel Wijaya,P,2007-10-13,Ambon,SI,Sistem Informasi,2025,2025-08-25,Aktif,25si0003@student.uadw.ac.id
+25SI0004,Aisyah Amelia,P,13/08/2007,Wakatobi,SI,Sistem Informasi,2025,2025-08-25,Aktif,25si0004@student.uadw.ac.id
+25SI0005,Syifa Febriani,Perempuan,2007-06-27,Palu,SI,Sistem Informasi,2025,22-Aug-2025,Aktif,25si0005@student.uadw.ac.id
+25SI0006,Dian Ananda,L,28/04/2007,Medan,SI,Sistem Informasi,2025,2025-08-16,Aktif,25si0006@student.uadw.ac.id
+25SI0007,Farhan Ningsih Wibowo,P,2006-09-26,Manado,SI,Sistem Informasi,2025,2025-08-24,Aktif,25si0007@student.uadw.ac.id
+25SI0008,Dian Anggraini,L,12-Jan-2007,Kolaka,SI,Sistem Informasi,2025,2025-08-19,Aktif,25si0008@student.uadw.ac.id
+25SI0009,Muhammad Febriani,L,2008-07-26,Palembang,SI,Sistem Informasi,2025,2025-08-17,Aktif,25si0009@student.uadw.ac.id
+25SI0010,Rani Maulana Susanti,Perempuan,16/06/2006,Baubau,SI,Sistem Informasi,2025,21/08/2025,Aktif,25si0010@student.uadw.ac.id
+25SI0011,Salma Wijaya,P,2007-03-18,Surabaya,SI,Sistem Informasi,2025,2025-08-19,Aktif,25si0011@student.uadw.ac.id
+25SI0012,Fitri Putri Permatasari,P,2006-03-06,Raha,SI,Sistem Informasi,2025,23-Aug-2025,Aktif,25si0012@student.uadw.ac.id
+25SI0013,Intan Putri,P,2006-01-01,Yogyakarta,SI,Sistem Informasi,2025,2025-08-21,Aktif,25si0013@student.uadw.ac.id
+25SI0014,Andi Wijaya Kurniadi,P,2006-05-16,Manado,SI,Sist. Informasi,2025,2025-08-15,Aktif,25si0014@student.uadw.ac.id
+25SI0015,Lukman Yusuf,L,05/05/2005,Manado,SI,Sistem Informasi,2025,2025-08-21,Aktif,25si0015@student.uadw.ac.id
+25SI0016,Lukman Firmansyah,P,2008-04-24,Kendari,SI,Sistem Informasi,2025,2025-08-17,Aktif,25si0016@student.uadw.ac.id
+25SI0017,Lukman Putra,P,2007-08-23,Mataram,SI,Sistem Informasi,2025,15/08/2025,Aktif,25si0017@student.uadw.ac.id
+25SI0018,Muhammad Sari Gunawan,Laki-laki,17/11/2007,Yogyakarta,SI,Sistem Informasi,2025,2025-08-16,Aktif,25si0018@student.uadw.ac.id
+25SI0019,Muhammad Hidayat,P,2006-06-21,Raha,SI,Sist. Informasi,2025,2025-08-19,Aktif,25si0019@student.uadw.ac.id
+25SI0020,Rafi Firmansyah Maulida,Laki-laki,2007-11-17,Palembang,SI,Sistem Informasi,2025,23-Aug-2025,Aktif,25si0020@student.uadw.ac.id
+25SI0021,Syifa Anggraini,L,16/03/2007,Wakatobi,SI,SISTEM INFORMASI,2025,2025-08-18,Aktif,25si0021@student.uadw.ac.id
+25SI0022,Fauzan Kurniawan Susanti,L,2007-12-10,Gorontalo,SI,Sistem Informasi,2025,2025-08-17,Aktif,25si0022@student.uadw.ac.id
+25SI0023,Galih Maharani,P,19-Feb-2006,Kolaka,SI,Sistem Informasi,2025,2025-08-15,Aktif,25si0023@student.uadw.ac.id
+25SI0024,Syifa Lestari,P,2006-08-07,Palu,SI,Sistem Informasi,2025,2025-08-16,Aktif,25si0024@student.uadw.ac.id
+25SI0025,Farhan Febriani Herlambang,L,2007-02-26,Unaaha,SI,SISTEM INFORMASI,2025,20/08/2025,Aktif,25si0025@student.uadw.ac.id
+25SI0026,Samuel Lestari Nugroho,Perempuan,2008-04-01,Bandung,SI,Sistem Informasi,2025,15-Aug-2025,Aktif,25si0026@student.uadw.ac.id
+25SI0027,Ilham Wahyuni Gunawan,L,25/11/2008,Surabaya,SI,Sistem Informasi,2025,2025-08-22,Aktif,25si0027@student.uadw.ac.id
+25SI0028,Syifa Ramadhan,L,2007-07-07,Gorontalo,SI,Sistem Informasi,2025,2025-08-20,Aktif,25si0028@student.uadw.ac.id
+25SI0029,Fajar Pratama,L,2008-04-16,Palembang,SI,Sistem Informasi,2025,2025-08-19,Aktif,25si0029@student.uadw.ac.id
+25SI0030,Putri Pratama,Perempuan,20/09/2006,Ambon,SI,Sistem Informasi,2025,15/08/2025,Aktif,25si0030@student.uadw.ac.id
+25SI0031,Nabila Ramadhan,M,2006-06-05,Medan, SI,Sistem Informasi,2025,2025-08-18,Aktif,25si0031@student.uadw.ac.id
+25SI0032,Lukman Santoso Azzahra,P,2007-09-12,Yogyakarta,SI,Sistem Informasi,2025,2025-08-18,Aktif,25si0032@student.uadw.ac.id
+25SI0033,Rahmat Wahyuni Hasan,P,2007-11-07,Palembang,SI,Sistem Informasi,2025,2025-08-16,Aktif,25si0033@student.uadw.ac.id
+25SI0034,Anisa Nugraha,Perempuan,2005-04-03,Padang,SI,Sistem Informasi,2025,2025-08-25,Aktif,25si0034@student.uadw.ac.id
+25SI0035,Aditya Wijaya,L,21/10/2007,Bandung,SI,Sistem Informasi,2025,23/08/2025,Aktif,25si0035@student.uadw.ac.id
+25SI0036,Nadia Sari,L,2007-01-13,Palu,SI,Sistem Informasi,2025,2025-08-24,Aktif,25si0036@student.uadw.ac.id
+25SI0037,Kevin Ananda,L,2006-11-14,,SI ,Sistem Informasi,2025,2025-08-16,Aktif,25si0037@student.uadw.ac.id
+25SI0038,Reza Ramadhan Melati,Perempuan,2006-12-17,Yogyakarta,SI,Sistem Informasi,2025,2025-08-17,Aktif,25si0038@student.uadw.ac.id
+25SI0039,Putri Setiawan,L,2007-02-09,Medan,SI,Sist. Informasi,2025,2025-08-25,Aktif,25si0039@student.uadw.ac.id
+25SI0040,Rina Wijaya Fadillah,P,2008-06-13,Kendari,SI,SI,2025,2025-08-15,Aktif,25si0040@student.uadw.ac.id
+25SI0041,Andi Maharani Halim,L,2007-05-22,Banda Aceh,SI,Sistem informasi,2025,2025-08-17,Aktif,25si0041@student.uadw.ac.id
+25SI0042,Reza Purnama,P,03-Mar-2005,Bandung,SI,Sistem Informasi,2025,2025-08-22,Aktif,25si0042@student.uadw.ac.id
+25SI0043,Hafiz Rasyid Oktaviani,P,2007-08-20,Bandung,SI,Sistem Informasi,2025,2025-08-22,Aktif,25si0043@student.uadw.ac.id
+25SI0044,Yoga Ananda,L,2007-11-18,Semarang, SI,Sistem Informasi,2025,2025-08-25,Aktif,25si0044@student.uadw.ac.id
+25SI0045,Taufik Hakim,L,17/12/2006,Banda Aceh,SI,Sistem Informasi,2025,2025-08-15,Aktif,25si0045@student.uadw.ac.id
+25SI0046,Syifa Sari Oktaviani,F,2006-05-18,Palu,SI,Sistem Informasi,2025,2025-08-18,Aktif,25si0046@student.uadw.ac.id
+25SI0047,Lukman Pratama,P,03-Jun-2007,Banda Aceh,SI,Sistem Informasi,2025,17/08/2025,Aktif,25si0047@student.uadw.ac.id
+25SI0048,Rahmat Maulana,P,2006-07-05,Ambon,SI,Sistem Informasi,2025,2025-08-20,Aktif,25si0048@student.uadw.ac.id
+25SI0049,Bima Santoso Rahmawati,L,2007-05-22,Bandung,SI,Sistem Informasi,2025,2025-08-21,Aktif,25si0049@student.uadw.ac.id
+25SI0050,Aisyah Rasyid Safitri,L,13/10/2008,Raha,SI,Sistem Informasi,2025,2025-08-16,Aktif,25si0050@student.uadw.ac.id
+25SI0051,Rina Aziz,L,2006-03-24,Surabaya,SI,Sistem Informasi,2025,17/08/2025,Aktif,25si0051@student.uadw.ac.id
+25SI0052,Grace Permana Prasetyo,P,2006-03-20,Mataram,SI,Sistem Informasi,2025,2025-08-21,Aktif,25si0052@student.uadw.ac.id
+25SI0053,Fauzan Ramadhan Siregar,L,2007-06-02,Manado,SI,Sistem Informasi,2025,2025-08-16,Aktif,25si0053@student.uadw.ac.id
+25SI0054,Nur Santoso,L,2007-09-28,Unaaha,SI,Sistem Informasi,2025,2025-08-19,Aktif,25si0054@student.uadw.ac.id
+25SI0055,Siti Wijaya,P,2007-06-15,Mataram,SI,Sistem Informasi,2025,24-Aug-2025,Aktif,25si0055@student.uadw.ac.id
+25SI0056,Aditya Utami,P,2007-11-22,Baubau,SI,SISTEM INFORMASI,2025,2025-08-22,Aktif,25si0056@student.uadw.ac.id
+25SI0057,Aditya Amelia Wibowo,Laki-laki,2007-08-21,Palembang,SI,Sistem Informasi,2025,2025-08-20,Aktif,25si0057@student.uadw.ac.id
+25SI0058,Iqbal Utami,P,04-Apr-2007,Raha,SI,Sist. Informasi,2025,2025-08-21,Aktif,25si0058@student.uadw.ac.id
+25SI0059,Maya Saputra,L,2006-09-06,Semarang,SI,Sistem Informasi,2025,2025-08-20,Aktif,25si0059@student.uadw.ac.id
+25SI0060,Samuel Pratama Safitri,P,24/03/2007,Palembang,SI ,Sistem Informasi,2025,16/08/2025,Aktif,25si0060@student.uadw.ac.id
+25SI0061,Dian Pratama,P,2007-08-01,Manado,SI,Sistem Informasi,2025,2025-08-25,Aktif,25si0061@student.uadw.ac.id
+25SI0062,Kevin Aziz,P,2005-09-21,Yogyakarta,SI,Sistem Informasi,2025,25/08/2025,Aktif,25si0062@student.uadw.ac.id
+25SI0063,Ahmad Saputra Fadillah,L,2007-08-22,Kendari,SI,Sistem Informasi,2025,2025-08-15,Aktif,25si0063@student.uadw.ac.id
+25SI0064,Dimas Sari,P,21-Oct-2007,Kolaka,SI,Sistem Informasi,2025,2025-08-25,Aktif,25si0064@student.uadw.ac.id
+25SI0065,Dian Yusuf Rahmawati,L,2007-06-28,Gorontalo,SI,Sistem Informasi,2025,2025-08-19,Aktif,25si0065@student.uadw.ac.id
+25SI0066,Kevin Kurniawan Melati,P,05/08/2007,Wakatobi,SI,Sistem Informasi,2025,2025-08-15,Aktif,25si0066@student.uadw.ac.id
+25SI0067,Aisyah Hidayat,L,23/03/2007,Bandung,SI,Sistem Informasi,2025,18/08/2025,Aktif,25si0067@student.uadw.ac.id
+25SI0068,Arif Saputra,L,22/03/2006,Mataram,SI,SI,2025,2025-08-16,Aktif,25si0068@student.uadw.ac.id
+25SI0069,Iqbal Utami Kusuma,P,2008-02-28,Yogyakarta,SI,Sistem Informasi,2025,2025-08-19,Aktif,25si0069@student.uadw.ac.id
+25SI0070,Samuel Ramadhan,L,2007-03-11,Raha,SI,Sistem Informasi,2025,20-Aug-2025,Aktif,25si0070@student.uadw.ac.id
+25SI0071,Grace Ramadhan,P,15/09/2006,Banda Aceh,si,Sistem Informasi,2025,2025-08-19,Aktif,25si0071@student.uadw.ac.id
+25SI0072,Rina Permana,L,2007-12-07,Banda Aceh,SI,Sistem Informasi,2025,2025-08-21,Aktif,25si0072@student.uadw.ac.id
+25SI0073,Bima Putri Karim,P,2006-05-07,Yogyakarta,SI,Sistem Informasi,2025,15/08/2025,Aktif,25si0073@student.uadw.ac.id
+25SI0074,Taufik Pratama,L,04-Feb-2005,Surabaya,SI,Sistem Informasi,2025,21-Aug-2025,Aktif,25si0074@student.uadw.ac.id
+25SI0075,Wulan Utami Prasetyo,L,18-Jul-2005,Padang,SI,Sistem Informasi,2025,2025-08-20,Aktif,25si0075@student.uadw.ac.id
+25SI0076,Salma Rasyid Wardana,L,08/10/2006,Makassar,SI,Sistem Informasi,2025,2025-08-24,Aktif,25si0076@student.uadw.ac.id
+25SI0077,Hafiz Sari Hasan,F,15/07/2007,Palu,SI,Sistem Informasi,2025,2025-08-24,Aktif,25si0077@student.uadw.ac.id
+25SI0078,Kevin Santoso Hasan,L,2007-06-18,Manado,SI,SISTEM INFORMASI,2025,2025-08-15,Aktif,25si0078@student.uadw.ac.id
+25SI0079,Siti Ningsih Wardana,L,2006-01-08,Padang,SI,Sistem Informasi,2025,20-Aug-2025,Aktif,25si0079@student.uadw.ac.id
+25SI0080,Arif Saputra Rahmawati,P,2007-07-20,Kolaka,SI,Sistem Informasi,2025,2025-08-19,Aktif,25si0080@student.uadw.ac.id
+25SI0081,Dian Utami,L,28/02/2006,Ambon,SI,Sistem Informasi,2025,22/08/2025,Aktif,25si0081@student.uadw.ac.id
+25SI0082,Rahmat Putra,L,16-May-2005,Baubau,SI,Sistem Informasi,2025,2025-08-25,Aktif,25si0082@student.uadw.ac.id
+25SI0083,Grace Aziz Herlambang,L,2006-04-01,Semarang,SI,Sistem informasi,2025,2025-08-23,Aktif,25si0083@student.uadw.ac.id
+25SI0084,Yoga Maulana,P,05/05/2006,Ambon,SI,Sistem Informasi,2025,2025-08-22,Aktif,25si0084@student.uadw.ac.id
+25SI0085,Nadia Putri Wardana,P,2005-05-16,Gorontalo,SI,SI,2025,2025-08-16,Aktif,25si0085@student.uadw.ac.id
+25SI0086,Galih Ningsih Hermawan,P,2007-09-18,Surabaya,SI,SI,2025,2025-08-21,Aktif,25si0086@student.uadw.ac.id
+25SI0087,Rahmat Hakim,P,2006-12-06,Bandung,SI ,Sistem Informasi,2025,18-Aug-2025,Aktif,25si0087@student.uadw.ac.id
+25SI0088,Hafiz Amelia Azzahra,L,20/12/2007,Kendari,SI,SI,2025,20/08/2025,Aktif,25si0088@student.uadw.ac.id
+25SI0089,Taufik Fauzi,P,2006-02-10,Kendari,SI,Sistem Informasi,2025,2025-08-21,Aktif,25si0089@student.uadw.ac.id
+25SI0090,Siti Firmansyah Maulida,P,2008-03-28,Kendari,SI,Sistem Informasi,2025,23/08/2025,Aktif,25si0090@student.uadw.ac.id
+25SI0091,Rafi Fauzi Mahendra,P,2007-03-10,Makassar,SI,Sistem Informasi,2025,2025-08-19,Aktif,25si0091@student.uadw.ac.id
+25SI0092,Yoga Ningsih Hermawan,L,2007-12-24,Ambon, SI,Sistem Informasi,2025,2025-08-15,Aktif,25si0092@student.uadw.ac.id
+25SI0093,Lukman Nugraha Kusuma,L,2007-09-02,Mataram,SI,Sistem Informasi,2025,2025-08-18,Aktif,25si0093@student.uadw.ac.id
+25SI0094,Nadia Putra Safitri,L,2006-05-01,Surabaya,SI ,Sistem Informasi,2025,2025-08-17,Aktif,25si0094@student.uadw.ac.id
+25SI0095,Vina Setiawan Kusuma,P,2008-03-28,Bandung,SI ,Sistem Informasi,2025,2025-08-18,Aktif,25si0095@student.uadw.ac.id
+25SI0096,Tiara Utami Karim,L,2007-09-25,Mataram,SI,Sistem Informasi,2025,25-Aug-2025,Aktif,25si0096@student.uadw.ac.id
+25SI0097,Tiara Ramadhan,L,2006-08-27,Unaaha,SI,Sist. Informasi,2025,2025-08-17,Aktif,25si0097@student.uadw.ac.id
+25SI0098,Intan Saputra Karim,P,2006-07-10,Manado,SI,Sistem Informasi,2025,2025-08-24,Aktif,25si0098@student.uadw.ac.id
+25SI0099,Dian Putri Wibowo,P,2006-04-03,Medan,SI,Sistem Informasi,2025,2025-08-17,Aktif,25si0099@student.uadw.ac.id
+25IF0001,Dewi Fauzi Nugroho,Laki-laki,2008-11-17,Palembang,IF,Teknik Informatika,2025,22/08/2025,Aktif,25if0001@student.uadw.ac.id
+25IF0002,Akbar Utami,L,14/06/2007,Palembang,IF,Informatika,2025,22/08/2025,Aktif,25if0002@student.uadw.ac.id
+25IF0003,Zahra Rasyid,L,2007-02-19,Gorontalo,IF,Informatika,2025,2025-08-21,Aktif,25if0003@student.uadw.ac.id
+25IF0004,Vina Ramadhan Prasetyo,L,2005-09-02,Yogyakarta,IF,IF,2025,2025-08-19,Aktif,25if0004@student.uadw.ac.id
+25IF0005,Putri Putri Gunawan,L,20-Feb-2006,Yogyakarta,IF,Informatika,2025,2025-08-16,Aktif,25if0005@student.uadw.ac.id
+25IF0006,Raka Maulana Rahmawati,L,2006-03-04,Raha,IF,Informatika,2025,2025-08-17,Aktif,25if0006@student.uadw.ac.id
+25IF0007,Hafiz Purnama,L,2007-04-03,Baubau,IF,Teknik Informatika,2025,2025-08-20,Aktif,25if0007@student.uadw.ac.id
+25IF0008,Dian Ramadhan Fadillah,L,2007-06-28,Yogyakarta,IF,Informatika,2025,2025-08-24,Aktif,25if0008@student.uadw.ac.id
+25IF0009,Rina Yusuf Pamungkas,L,2006-12-18,Unaaha,IF,Informatika,2025,22-Aug-2025,Aktif,25if0009@student.uadw.ac.id
+25IF0010,Salma Ananda,L,07/04/2007,Baubau,IF,Informatika,2025,2025-08-21,Aktif,25if0010@student.uadw.ac.id
+25IF0011,Siti Ningsih,P,2007-09-20,Surabaya,IF,Informatika,2025,2025-08-19,Aktif,25if0011@student.uadw.ac.id
+25IF0012,Ilham Rasyid Melati,F,2006-06-15,Palembang,IF,Informatika,2025,2025-08-21,Aktif,25if0012@student.uadw.ac.id
+25IF0013,Hafiz Wahyuni Sulaiman,P,14-Aug-2007,Padang, IF,Informatika,2025,2025-08-25,Aktif,25if0013@student.uadw.ac.id
+25IF0014,Wulan Pratama Kusuma,P,2008-11-19,Medan,IF,Informatika,2025,2025-08-17,Aktif,25if0014@student.uadw.ac.id
+25IF0015,Anisa Putra,L,01/12/2007,Kendari,if,Informatika,2025,24/08/2025,Aktif,25if0015@student.uadw.ac.id
+25IF0016,Samuel Hidayat Halim,Perempuan,2007-06-06,Padang,IF,Informatika,2025,2025-08-18,Aktif,25if0016@student.uadw.ac.id
+25IF0017,Aisyah Fauzi Oktaviani,L,2005-09-16,Palembang, IF,Informatika,2025,24-Aug-2025,Aktif,25if0017@student.uadw.ac.id
+25IF0018,Rani Saputra,M,2006-07-16,Padang,IF,Informatika,2025,2025-08-15,Aktif,25if0018@student.uadw.ac.id
+25IF0019,Hafiz Maulana Mulyani,P,2008-08-01,Ambon,IF,Informatika,2025,2025-08-24,Aktif,25if0019@student.uadw.ac.id
+25IF0020,Putri Putri Oktaviani,L,2007-10-07,Bandung,IF,IF,2025,15-Aug-2025,Aktif,25if0020@student.uadw.ac.id
+25IF0021,Maya Ramadhan Syahputra,P,2006-01-24,Gorontalo,IF,Informatika,2025,2025-08-25,Aktif,25if0021@student.uadw.ac.id
+25IF0022,Hafiz Nugraha Prasetyo,P,08/04/2007,Kendari,IF,Informatika,2025,16/08/2025,Aktif,25if0022@student.uadw.ac.id
+25IF0023,Kevin Ramadhan,L,2007-02-28,Kolaka,IF,Informatika,2025,2025-08-16,Aktif,25if0023@student.uadw.ac.id
+25IF0024,Vina Ananda,Laki-laki,08/10/2005,Banda Aceh,IF,Informatika,2025,2025-08-25,Aktif,25if0024@student.uadw.ac.id
+25IF0025,Alya Lestari Nasution,L,2007-11-18,Bandung,IF,Informatika,2025,2025-08-23,Aktif,25if0025@student.uadw.ac.id
+25IF0026,Rahmat Pratama Maulida,L,2007-05-21,Kolaka,IF,Informatika,2025,18/08/2025,Aktif,25if0026@student.uadw.ac.id
+25IF0027,Ahmad Maulana,P,2007-02-25,Manado,IF,Teknik Informatika,2025,2025-08-18,Aktif,25if0027@student.uadw.ac.id
+25IF0028,Hafiz Purnama Hasan,P,2007-02-05,Yogyakarta,IF,Informatika,2025,2025-08-25,Aktif,25if0028@student.uadw.ac.id
+25IF0029,Fajar Saputra,L,2006-11-03,,IF,Informatika,2025,24-Aug-2025,Aktif,25if0029@student.uadw.ac.id
+25IF0030,Rina Aziz,P,25-Sep-2006,Manado,IF,Informatika,2025,2025-08-19,Aktif,25if0030@student.uadw.ac.id
+25IF0031,Bagas Febriani,P,02/05/2006,Padang,IF,Informatika,2025,2025-08-25,Aktif,25if0031@student.uadw.ac.id
+25IF0032,Tiara Utami,L,2007-07-03,Wakatobi, IF,IF,2025,25/08/2025,Aktif,25if0032@student.uadw.ac.id
+25IF0033,Alya Utami Fadillah,P,2006-09-02,Bandung,IF,Teknik Informatika,2025,2025-08-21,Aktif,25if0033@student.uadw.ac.id
+25IF0034,Taufik Kurniawan Pamungkas,Perempuan,2006-06-11,Palu,IF,Informatika,2025,2025-08-15,Aktif,25if0034@student.uadw.ac.id
+25IF0035,Siti Lestari,P,2007-07-10,Palu,IF,Informatika,2025,2025-08-21,Aktif,25if0035@student.uadw.ac.id
+25IF0036,Fitri Yusuf,P,2007-03-11,Kolaka,IF,Informatika,2025,2025-08-24,Aktif,25if0036@student.uadw.ac.id
+25IF0037,Aditya Ananda,L,2008-10-16,Padang,IF,informatika,2025,2025-08-17,Aktif,25if0037@student.uadw.ac.id
+25IF0038,Raka Fauzi Mulyani,L,28/12/2006,Surabaya,IF,Informatika,2025,17/08/2025,Aktif,25if0038@student.uadw.ac.id
+25IF0039,Tiara Anggraini,P,2007-11-03,Makassar,IF,Informatika,2025,16/08/2025,Aktif,25if0039@student.uadw.ac.id
+25IF0040,Rafi Hakim,P,2008-09-24,Bandung,if,Informatika,2025,2025-08-17,Aktif,25if0040@student.uadw.ac.id
+25IF0041,Dewi Firmansyah Rahmawati,L,22/09/2007,Mataram,IF,Informatika,2025,2025-08-22,Aktif,25if0041@student.uadw.ac.id
+25IF0042,Maya Hidayat,P,17-Sep-2006,Ambon,IF,Informatika,2025,2025-08-25,Aktif,25if0042@student.uadw.ac.id
+25IF0043,Siti Saputra,P,2005-09-21,Palu,IF,Informatika,2025,2025-08-24,Aktif,25if0043@student.uadw.ac.id
+25IF0044,Samuel Ningsih Wibowo,P,2007-08-02,Wakatobi,IF,Informatika,2025,2025-08-17,Aktif,25if0044@student.uadw.ac.id
+25IF0045,Raka Nugraha Kusuma,F,2007-06-20,Gorontalo,IF,informatika,2025,20/08/2025,Aktif,25if0045@student.uadw.ac.id
+25IF0046,Arif Santoso Siregar,P,2007-03-07,Ambon,IF,Informatika,2025,2025-08-22,Aktif,25if0046@student.uadw.ac.id
+25IF0047,Akbar Putri Nugroho,P,2006-05-02,Ambon, IF,Informatika,2025,2025-08-18,Aktif,25if0047@student.uadw.ac.id
+25IF0048,Syifa Saputra Hermawan,L,2007-09-11,Palembang,IF,Informatika,2025,2025-08-25,Aktif,25if0048@student.uadw.ac.id
+25IF0049,Farhan Yusuf Hermawan,P,17/06/2005,Padang,IF,Informatika,2025,16-Aug-2025,Aktif,25if0049@student.uadw.ac.id
+25IF0050,Hafiz Putri,M,14/10/2006,Wakatobi,IF,informatika,2025,2025-08-20,Aktif,25if0050@student.uadw.ac.id
+25IF0051,Iqbal Maulana Iskandar,P,2007-06-18,Raha,IF,Informatika,2025,19-Aug-2025,Aktif,25if0051@student.uadw.ac.id
+25IF0052,Nur Sari Sulaiman,L,10-Oct-2006,Raha,IF,Informatika,2025,2025-08-21,Aktif,25if0052@student.uadw.ac.id
+25IF0053,Yoga Permana Hasan,L,2007-09-27,Yogyakarta,IF,Informatika,2025,2025-08-21,Aktif,25if0053@student.uadw.ac.id
+25IF0054,Fitri Kurniawan,L,2007-10-13,Gorontalo,IF,Informatika,2025,24-Aug-2025,Aktif,25if0054@student.uadw.ac.id
+25IF0055,Nur Amelia,L,2007-03-17,Gorontalo,IF,Informatika,2025,18/08/2025,Aktif,25if0055@student.uadw.ac.id
+25IF0056,Ahmad Hakim Iskandar,Perempuan,2006-09-11,Semarang,IF,Informatika,2025,19-Aug-2025,Aktif,25if0056@student.uadw.ac.id
+25IF0057,Iqbal Santoso Herlambang,P,2005-05-18,Kolaka,IF,Teknik Informatika,2025,2025-08-16,Aktif,25if0057@student.uadw.ac.id
+25IF0058,Aisyah Purnama,P,2007-06-17,Banda Aceh,IF,Informatika,2025,2025-08-20,Aktif,25if0058@student.uadw.ac.id
+25IF0059,Dewi Permana Rahmawati,L,07/01/2006,Palu,IF,Informatika,2025,2025-08-23,Aktif,25if0059@student.uadw.ac.id
+25IF0060,Rafi Ananda Kusuma,P,2007-11-14,Palu,IF,Informatika,2025,2025-08-19,Aktif,25if0060@student.uadw.ac.id
+25IF0061,Salma Purnama Pamungkas,P,20-Oct-2006,Banda Aceh,IF,Informatika,2025,15/08/2025,Aktif,25if0061@student.uadw.ac.id
+25IF0062,Rina Yusuf,L,28/12/2006,Baubau,IF,IF,2025,2025-08-19,Aktif,25if0062@student.uadw.ac.id
+25IF0063,Nur Aziz,L,2006-06-23,Yogyakarta,IF,Informatika,2025,2025-08-24,Aktif,25if0063@student.uadw.ac.id
+25IF0064,Vina Wijaya Sulaiman,L,2008-10-08,Gorontalo,IF,Informatika,2025,18/08/2025,Aktif,25if0064@student.uadw.ac.id
+25IF0065,Akbar Hidayat Kurniadi,P,01/04/2006,Makassar,IF,Informatika,2025,2025-08-22,Aktif,25if0065@student.uadw.ac.id
+25IF0066,Rani Ningsih,L,2005-11-27,Makassar,IF ,Informatika,2025,2025-08-22,Aktif,25if0066@student.uadw.ac.id
+25IF0067,Nur Sari Gunawan,L,16-Nov-2007,Medan,IF,Informatika,2025,2025-08-19,Aktif,25if0067@student.uadw.ac.id
+25IF0068,Taufik Lestari Maulida,F,2008-03-04,Baubau,if,Informatika,2025,2025-08-24,Aktif,25if0068@student.uadw.ac.id
+25IF0069,Putri Ramadhan,P,28-Jan-2008,Unaaha,IF,Informatika,2025,24-Aug-2025,Aktif,25if0069@student.uadw.ac.id
+25IF0070,Nadia Purnama Siregar,L,2005-04-08,Manado,IF,INFORMATIKA,2025,2025-08-15,Aktif,25if0070@student.uadw.ac.id
+25IF0071,Bagas Pratama,P,19/11/2007,Medan,IF,Informatika,2025,2025-08-21,Aktif,25if0071@student.uadw.ac.id
+25IF0072,Fajar Maulana,P,2006-11-11,Palembang,IF,Informatika,2025,20-Aug-2025,Aktif,25if0072@student.uadw.ac.id
+25IF0073,Aditya Purnama,Perempuan,2008-06-15,Palu,IF,Informatika,2025,2025-08-18,Aktif,25if0073@student.uadw.ac.id
+25IF0074,Reza Maulana,L,06-May-2007,Yogyakarta,IF,Informatika,2025,2025-08-18,Aktif,25if0074@student.uadw.ac.id
+25IF0075,Bagas Firmansyah Oktaviani,L,05/10/2005,Surabaya,IF,Informatika,2025,16/08/2025,Aktif,25if0075@student.uadw.ac.id
+25IF0076,Fajar Firmansyah,Perempuan,2008-06-04,Palu,IF,Informatika,2025,2025-08-23,Aktif,25if0076@student.uadw.ac.id
+25IF0077,Samuel Pratama,L,2006-09-07,Mataram,IF,Informatika,2025,22/08/2025,Aktif,25if0077@student.uadw.ac.id
+25IF0078,Galih Permana Nasution,L,2007-09-02,Kolaka,IF,IF,2025,2025-08-17,Aktif,25if0078@student.uadw.ac.id
+25IF0079,Rafi Amelia Kurniadi,L,2007-02-20,Surabaya,IF,Informatika,2025,2025-08-15,Aktif,25if0079@student.uadw.ac.id
+25IF0080,Maya Lestari Azzahra,L,2005-07-11,Manado,IF,Informatika,2025,2025-08-24,Aktif,25if0080@student.uadw.ac.id
+25IF0081,Salma Ananda,P,2007-08-23,Manado,IF,Informatika,2025,24/08/2025,Aktif,25if0081@student.uadw.ac.id
+25IF0082,Iqbal Purnama Susanti,P,21/09/2006,Medan,IF,Informatika,2025,2025-08-19,Aktif,25if0082@student.uadw.ac.id
+25IF0083,Vina Firmansyah,P,15/01/2008,Bandung,IF,Informatika,2025,2025-08-20,Aktif,25if0083@student.uadw.ac.id
+25IF0084,Alya Ningsih,P,2006-10-01,Mataram,IF,Informatika,2025,17-Aug-2025,Aktif,25if0084@student.uadw.ac.id
+25IF0085,Ilham Wijaya,L,2006-06-02,Medan, IF,INFORMATIKA,2025,15/08/2025,Aktif,25if0085@student.uadw.ac.id
+25IF0086,Fitri Aziz,P,2007-01-20,Gorontalo,IF,IF,2025,23-Aug-2025,Aktif,25if0086@student.uadw.ac.id
+25IF0087,Aisyah Rasyid Syahputra,L,2006-04-08,Banda Aceh,IF,Informatika,2025,2025-08-21,Aktif,25if0087@student.uadw.ac.id
+25IF0088,Taufik Rasyid Hasan,Perempuan,2008-05-03,Kolaka,IF,Informatika,2025,2025-08-21,Aktif,25if0088@student.uadw.ac.id
+25IF0089,Nabila Ningsih Nugroho,Laki-laki,2005-07-16,Manado,IF,Teknik Informatika,2025,20/08/2025,Aktif,25if0089@student.uadw.ac.id
+25IF0090,Rizky Hidayat,P,2005-09-22,Padang,IF,Informatika,2025,25/08/2025,Aktif,25if0090@student.uadw.ac.id
+25IF0091,Arif Nugraha Pamungkas,P,2006-02-11,Bandung,IF,Informatika,2025,2025-08-17,Aktif,25if0091@student.uadw.ac.id
+25IF0092,Rafi Permana Hermawan,L,2007-12-21,Kendari,IF,Informatika,2025,2025-08-25,Aktif,25if0092@student.uadw.ac.id
+25IF0093,Samuel Nugraha Rahmawati,L,01-Mar-2007,,IF,Informatika,2025,20-Aug-2025,Aktif,25if0093@student.uadw.ac.id
+25IF0094,Bagas Purnama Fadillah,L,2005-04-19,Raha,IF,Informatika,2025,2025-08-25,Aktif,25if0094@student.uadw.ac.id
+25IF0095,Maya Ningsih Melati,F,09/11/2006,Padang,IF,Informatika,2025,25/08/2025,Aktif,25if0095@student.uadw.ac.id
+25IF0096,Arif Maharani,P,2007-06-12,Manado,IF,Informatika,2025,2025-08-15,Aktif,25if0096@student.uadw.ac.id
+25IF0097,Anisa Amelia Kurniadi,P,2007-09-23,Medan,IF,Informatika,2025,16-Aug-2025,Aktif,25if0097@student.uadw.ac.id
+25IF0098,Arif Rasyid Fadillah,L,03/01/2007,Banda Aceh,IF,informatika,2025,2025-08-15,Aktif,25if0098@student.uadw.ac.id
+25IF0099,Nadia Setiawan,P,2007-11-17,Kendari,IF,Informatika,2025,15/08/2025,Aktif,25if0099@student.uadw.ac.id
+25IF0100,Grace Aziz,P,2006-07-12,Palu,IF,Teknik Informatika,2025,2025-08-24,Aktif,25if0100@student.uadw.ac.id
+25IF0101,Rizky Hakim,P,2008-11-04,Gorontalo,IF,Informatika,2025,2025-08-21,Aktif,25if0101@student.uadw.ac.id
+25IF0102,Wulan Santoso,P,2006-11-22,Palembang,IF,Informatika,2025,2025-08-20,Aktif,25if0102@student.uadw.ac.id
+25IF0103,Reza Purnama Gunawan,P,2007-07-19,Kolaka,IF,Informatika,2025,23/08/2025,Aktif,25if0103@student.uadw.ac.id
+25IF0104,Kevin Wijaya,L,2005-03-03,Mataram,IF,Informatika,2025,2025-08-16,Aktif,25if0104@student.uadw.ac.id
+25DS0001,Dimas Pratama,L,2006-05-27,Palembang,DS,Sains Data,2025,2025-08-24,Aktif,25ds0001@student.uadw.ac.id
+25DS0002,Rani Maulana Susanti,P,2008-12-15,Palu,DS,Sains Data,2025,2025-08-24,Aktif,25ds0002@student.uadw.ac.id
+25DS0003,Dian Yusuf Pamungkas,P,2007-06-01,Banda Aceh,DS,Sains Data,2025,18/08/2025,Aktif,25ds0003@student.uadw.ac.id
+25DS0004,Samuel Ningsih,P,2006-10-03,Baubau,DS,Sains Data,2025,2025-08-25,Aktif,25ds0004@student.uadw.ac.id
+25DS0005,Nisa Putri,Perempuan,2007-04-07,Manado,DS,Sains Data,2025,2025-08-22,Aktif,25ds0005@student.uadw.ac.id
+25DS0006,Kevin Hakim Gunawan,Laki-laki,2005-02-21,Surabaya,DS ,Sains Data,2025,2025-08-16,Aktif,25ds0006@student.uadw.ac.id
+25DS0007,Aditya Saputra,Perempuan,14/07/2006,Kolaka,DS,Sains Data,2025,22/08/2025,Aktif,25ds0007@student.uadw.ac.id
+25DS0008,Galih Lestari Iskandar,Laki-laki,2007-12-27,Kendari,DS,DS,2025,2025-08-25,Aktif,25ds0008@student.uadw.ac.id
+25DS0009,Rahmat Ningsih,P,21-May-2006,Banda Aceh,DS,Sains Data,2025,2025-08-21,Aktif,25ds0009@student.uadw.ac.id
+25DS0010,Rafi Sari,L,2007-03-03,Yogyakarta,DS,Sains Data,2025,2025-08-15,Aktif,25ds0010@student.uadw.ac.id
+25DS0011,Ahmad Santoso,L,2007-03-08,Wakatobi,DS,Sains data,2025,17/08/2025,Aktif,25ds0011@student.uadw.ac.id
+25DS0012,Siti Utami Iskandar,M,2006-05-04,Bandung,DS,Sains Data,2025,20/08/2025,Aktif,25ds0012@student.uadw.ac.id
+25DS0013,Galih Firmansyah,P,12-Jun-2006,Banda Aceh,DS,Sains Data,2025,2025-08-22,Aktif,25ds0013@student.uadw.ac.id
+25DS0014,Tiara Fauzi,F,2006-08-15,Baubau,DS,Sains Data,2025,2025-08-15,Aktif,25ds0014@student.uadw.ac.id
+25DS0015,Aditya Putra Susanti,P,2007-01-28,Ambon,DS,Data Science,2025,18/08/2025,Aktif,25ds0015@student.uadw.ac.id
+25DS0016,Lukman Fauzi Karim,L,2008-08-26,Kolaka,DS,SAINS DATA,2025,2025-08-23,Aktif,25ds0016@student.uadw.ac.id
+25DS0017,Intan Hidayat,L,06-Dec-2008,Makassar, DS,Sains Data,2025,21/08/2025,Aktif,25ds0017@student.uadw.ac.id
+25DS0018,Grace Amelia,P,2005-02-11,Medan,DS,Sains Data,2025,24-Aug-2025,Aktif,25ds0018@student.uadw.ac.id
+25DS0019,Bima Yusuf Susanti,L,2007-03-15,Baubau,DS,Sains Data,2025,2025-08-15,Aktif,25ds0019@student.uadw.ac.id
+25DS0020,Bagas Lestari Syahputra,L,08/03/2007,Unaaha,DS,Sains Data,2025,2025-08-23,Aktif,25ds0020@student.uadw.ac.id
+25DS0021,Galih Putri,Perempuan,2007-09-27,Raha,DS,Sains Data,2025,2025-08-18,Aktif,25ds0021@student.uadw.ac.id
+25DS0022,Bima Nugraha Wibowo,P,04/05/2006,Yogyakarta,DS,Sains Data,2025,2025-08-21,Aktif,25ds0022@student.uadw.ac.id
+25DS0023,Anisa Fauzi,P,2007-10-26,Palembang,DS,Sains Data,2025,2025-08-21,Aktif,25ds0023@student.uadw.ac.id
+25DS0024,Dewi Anggraini,L,2007-12-11,Unaaha,DS,Sains Data,2025,24/08/2025,Aktif,25ds0024@student.uadw.ac.id
+25DS0025,Hafiz Maulana,L,05/03/2007,Mataram,DS,Sains Data,2025,2025-08-15,Aktif,25ds0025@student.uadw.ac.id
+25DS0026,Galih Pratama,L,2006-04-04,Padang,DS,Sains Data,2025,2025-08-24,Aktif,25ds0026@student.uadw.ac.id
+25DS0027,Vina Hakim Siregar,L,2005-11-10,Padang,DS,Sains data,2025,2025-08-15,Aktif,25ds0027@student.uadw.ac.id
+25DS0028,Fitri Hidayat Nasution,P,2006-05-06,Padang,DS,Sains Data,2025,23/08/2025,Aktif,25ds0028@student.uadw.ac.id
+25DS0029,Arif Wahyuni,L,2007-06-08,Palu,DS,Sains Data,2025,2025-08-23,Aktif,25ds0029@student.uadw.ac.id
+25DS0030,Alya Lestari Rahmawati,L,2006-10-08,Yogyakarta,DS,Sains Data,2025,2025-08-17,Aktif,25ds0030@student.uadw.ac.id
+25DS0031,Ilham Aziz Susanti,P,2006-02-01,Bandung,DS,Sains Data,2025,2025-08-22,Aktif,25ds0031@student.uadw.ac.id
+25DS0032,Grace Anggraini,P,02/04/2006,Palu,DS,DS,2025,2025-08-17,Aktif,25ds0032@student.uadw.ac.id
+25DS0033,Rina Putri Syahputra,P,2005-08-08,Bandung,ds,Sains Data,2025,2025-08-20,Aktif,25ds0033@student.uadw.ac.id
+25DS0034,Putri Saputra Mahendra,M,13/12/2006,Raha,DS,Sains Data,2025,2025-08-20,Aktif,25ds0034@student.uadw.ac.id
+25DS0035,Farhan Pratama,Perempuan,2007-10-14,Makassar,DS,Sains Data,2025,2025-08-20,Aktif,25ds0035@student.uadw.ac.id
+25DS0036,Taufik Maharani,P,2005-05-06,Padang,DS,Sains Data,2025,25/08/2025,Aktif,25ds0036@student.uadw.ac.id
+25DS0037,Hafiz Sari,L,2005-08-04,Palembang,DS,SAINS DATA,2025,25/08/2025,Aktif,25ds0037@student.uadw.ac.id
+25DS0038,Dewi Hakim Mahendra,Perempuan,2008-05-02,Banda Aceh, DS,Sains Data,2025,19/08/2025,Aktif,25ds0038@student.uadw.ac.id
+25DS0039,Ilham Utami,L,2007-07-18,Padang,DS,Sains Data,2025,18/08/2025,Aktif,25ds0039@student.uadw.ac.id
+25DS0040,Akbar Maulana Melati,P,20/12/2006,Wakatobi,DS,Sains Data,2025,2025-08-25,Aktif,25ds0040@student.uadw.ac.id
+25DS0041,Reza Aziz Permatasari,Perempuan,2006-09-14,Raha,DS,Sains Data,2025,2025-08-15,Aktif,25ds0041@student.uadw.ac.id
+25DS0042,Nisa Anggraini,P,2007-12-27,Wakatobi,DS,Sains Data,2025,2025-08-15,Aktif,25ds0042@student.uadw.ac.id
+25DS0043,Reza Lestari,L,2006-04-02,Palembang,DS,SAINS DATA,2025,17/08/2025,Aktif,25ds0043@student.uadw.ac.id
+25DS0044,Tiara Putri Kusuma,L,2008-02-04,Gorontalo,DS,Sains Data,2025,2025-08-16,Aktif,25ds0044@student.uadw.ac.id
+25DS0045,Bima Sari Safitri,Perempuan,2006-06-15,Kolaka,DS,Data Science,2025,2025-08-24,Aktif,25ds0045@student.uadw.ac.id
+25DS0046,Fauzan Ananda,L,2005-07-14,Manado,DS,Sains Data,2025,2025-08-18,Aktif,25ds0046@student.uadw.ac.id
+25DS0047,Dian Anggraini,L,19-Jan-2007,Kendari,DS,Sains Data,2025,17/08/2025,Aktif,25ds0047@student.uadw.ac.id
+25DS0048,Vina Saputra Halim,P,01/09/2007,Kendari,DS,Sains Data,2025,22/08/2025,Aktif,25ds0048@student.uadw.ac.id
+25DS0049,Akbar Wijaya,L,14-Jun-2005,Kolaka,DS,Sains Data,2025,2025-08-20,Aktif,25ds0049@student.uadw.ac.id
+25DS0050,Andi Putra,P,2008-03-26,Padang,ds,Sains Data,2025,16/08/2025,Aktif,25ds0050@student.uadw.ac.id
+25DS0051,Andi Setiawan,P,2006-09-22,Gorontalo,DS,Sains Data,2025,2025-08-16,Aktif,25ds0051@student.uadw.ac.id
+25DS0052,Yoga Setiawan Hasan,P,18-Apr-2008,Kendari,DS,Sains Data,2025,2025-08-15,Aktif,25ds0052@student.uadw.ac.id
+25DS0053,Salma Rasyid,L,2007-02-22,Raha,DS,Sains Data,2025,20-Aug-2025,Aktif,25ds0053@student.uadw.ac.id
+25DS0054,Ahmad Putri,L,2006-04-19,Baubau,DS,Sains Data,2025,22/08/2025,Aktif,25ds0054@student.uadw.ac.id
+25DS0055,Reza Febriani,P,2005-12-05,Surabaya,DS ,Sains Data,2025,2025-08-18,Aktif,25ds0055@student.uadw.ac.id
+25DS0056,Dian Pratama Fadillah,P,2008-06-02,Raha,DS,Sains Data,2025,18/08/2025,Aktif,25ds0056@student.uadw.ac.id
+25DS0057,Dian Maulana,L,2006-11-06,Bandung,DS,Sains Data,2025,2025-08-15,Aktif,25ds0057@student.uadw.ac.id
+25DS0058,Samuel Rasyid,L,2006-12-23,Mataram,DS,Sains Data,2025,2025-08-23,Aktif,25ds0058@student.uadw.ac.id
+25DS0059,Intan Santoso,L,2006-05-20,Surabaya,DS,Sains Data,2025,2025-08-25,Aktif,25ds0059@student.uadw.ac.id
+25DS0060,Aulia Maulana Karim,P,2006-10-03,Makassar,DS,Sains Data,2025,23-Aug-2025,Aktif,25ds0060@student.uadw.ac.id
+25DS0061,Fajar Putra,P,14-Jul-2007,Manado,DS,Sains Data,2025,2025-08-23,Aktif,25ds0061@student.uadw.ac.id
+25DS0062,Syifa Utami Kusuma,P,20/09/2007,Surabaya,DS,Sains Data,2025,2025-08-15,Aktif,25ds0062@student.uadw.ac.id
+25DS0063,Bima Putra,P,2006-10-02,Makassar,DS,Sains Data,2025,2025-08-25,Aktif,25ds0063@student.uadw.ac.id
+25DS0064,Nur Maharani Karim,P,15-Feb-2007,Kendari,DS,Sains Data,2025,2025-08-16,Aktif,25ds0064@student.uadw.ac.id
+25DS0065,Bagas Maulana Azzahra,F,2006-03-21,Raha,DS,Sains Data,2025,22/08/2025,Aktif,25ds0065@student.uadw.ac.id
+25DS0066,Fauzan Anggraini Rahmawati,P,2008-07-26,Makassar,DS,Sains Data,2025,2025-08-21,Aktif,25ds0066@student.uadw.ac.id
+25DS0067,Yoga Utami Safitri,P,2007-07-13,Palu, DS,Sains Data,2025,2025-08-18,Aktif,25ds0067@student.uadw.ac.id
+25DS0068,Bagas Lestari Halim,L,2006-09-26,Bandung,DS,Sains Data,2025,2025-08-18,Aktif,25ds0068@student.uadw.ac.id
+25DS0069,Rahmat Ramadhan Sulaiman,L,2007-04-24,Bandung,DS,Sains Data,2025,2025-08-21,Aktif,25ds0069@student.uadw.ac.id
+25DS0070,Tiara Purnama,L,09/09/2007,Yogyakarta,DS,Sains Data,2025,2025-08-24,Aktif,25ds0070@student.uadw.ac.id
+25DS0071,Rizky Ramadhan Maulida,P,2007-02-22,Medan,DS,Data Science,2025,24/08/2025,Aktif,25ds0071@student.uadw.ac.id
+25DS0072,Iqbal Amelia Fadillah,Perempuan,2006-05-17,Baubau,DS,Sains Data,2025,2025-08-22,Aktif,25ds0072@student.uadw.ac.id
+25DS0073,Maya Ananda,L,2005-06-13,Baubau,DS,Data Science,2025,20/08/2025,Aktif,25ds0073@student.uadw.ac.id
+25DS0074,Lukman Santoso,P,2006-02-09,Banda Aceh,DS,Sains Data,2025,21-Aug-2025,Aktif,25ds0074@student.uadw.ac.id
+25DS0075,Anisa Pratama,P,2005-12-01,Ambon,DS,Sains Data,2025,24/08/2025,Aktif,25ds0075@student.uadw.ac.id
+25DS0076,Dimas Purnama,Laki-laki,2007-07-28,Wakatobi,DS,Sains Data,2025,20/08/2025,Aktif,25ds0076@student.uadw.ac.id
+25DS0077,Nisa Nugraha Prasetyo,L,2007-04-01,Padang, DS,Sains Data,2025,17/08/2025,Aktif,25ds0077@student.uadw.ac.id
+25DS0078,Nur Febriani Fadillah,P,2008-09-20,Raha,DS,Sains Data,2025,2025-08-25,Aktif,25ds0078@student.uadw.ac.id
+25DS0079,Aisyah Maharani Siregar,P,28-Jun-2006,Baubau,DS,SAINS DATA,2025,2025-08-18,Aktif,25ds0079@student.uadw.ac.id
+25DS0080,Fajar Ramadhan Siregar,L,2007-08-20,Mataram,ds,Sains Data,2025,18/08/2025,Aktif,25ds0080@student.uadw.ac.id
+25DS0081,Samuel Amelia,L,2006-09-17,Palu,DS,Sains Data,2025,2025-08-17,Aktif,25ds0081@student.uadw.ac.id
+25DS0082,Bagas Ananda Nugroho,L,2007-05-04,Bandung, DS,Sains Data,2025,2025-08-24,Aktif,25ds0082@student.uadw.ac.id
+25TR0001,Rizky Hidayat Wardana,L,2005-02-11,Banda Aceh,TR,Teknologi Rekayasa Komputer,2025,2025-08-21,Aktif,25tr0001@student.uadw.ac.id
+25TR0002,Reza Santoso,P,2007-08-13,Palu,TR,Teknologi Rekayasa Komputer,2025,2025-08-23,Aktif,25tr0002@student.uadw.ac.id
+25TR0003,Zahra Nugraha Gunawan,Perempuan,17/05/2008,Banda Aceh,TR,Teknologi Rekayasa Komputer,2025,2025-08-21,Aktif,25tr0003@student.uadw.ac.id
+25TR0004,Aulia Putra Hasan,Perempuan,2007-08-07,Medan,TR,Teknologi Rekayasa Komputer,2025,2025-08-15,Aktif,25tr0004@student.uadw.ac.id
+25TR0005,Arif Saputra Kusuma,F,2007-09-17,Kolaka,TR,Teknologi Rekayasa Komputer,2025,2025-08-24,Aktif,25tr0005@student.uadw.ac.id
+25TR0006,Alya Amelia,L,2007-03-08,Surabaya,TR,Teknologi Rekayasa Komputer,2025,16/08/2025,Aktif,25tr0006@student.uadw.ac.id
+25TR0007,Kevin Sari,L,2007-11-15,Unaaha,TR,Teknologi Rekayasa Komputer,2025,15/08/2025,Aktif,25tr0007@student.uadw.ac.id
+25TR0008,Reza Wahyuni,Perempuan,2006-10-28,Mataram,TR ,Teknologi Rekayasa Komputer,2025,2025-08-21,Aktif,25tr0008@student.uadw.ac.id
+25TR0009,Hafiz Maharani,P,2007-09-22,Makassar,TR,Teknologi Rekayasa Komputer,2025,2025-08-20,Aktif,25tr0009@student.uadw.ac.id
+25TR0010,Dewi Permana,L,2007-05-08,Yogyakarta,TR,Teknologi Rekayasa Komputer,2025,25-Aug-2025,Aktif,25tr0010@student.uadw.ac.id
+25TR0011,Nabila Firmansyah Wibowo,P,2008-04-24,Semarang,TR,TRK,2025,2025-08-19,Aktif,25tr0011@student.uadw.ac.id
+25TR0012,Nadia Yusuf Gunawan,M,04/11/2005,Palu,TR,Teknologi Rekayasa Komputer,2025,17-Aug-2025,Aktif,25tr0012@student.uadw.ac.id
+25TR0013,Intan Sari,L,2005-04-19,Kendari,TR,Teknologi Rekayasa Komputer,2025,2025-08-21,Aktif,25tr0013@student.uadw.ac.id
+25TR0014,Anisa Putri,P,2008-01-17,Banda Aceh,TR,Teknologi Rekayasa Komputer,2025,2025-08-17,Aktif,25tr0014@student.uadw.ac.id
+25TR0015,Lukman Febriani,Laki-laki,2005-07-11,Padang,TR,Teknologi Rekayasa Komputer,2025,2025-08-19,Aktif,25tr0015@student.uadw.ac.id
+25TR0016,Arif Lestari,L,2007-12-02,Medan,TR,Teknologi Rekayasa Komputer,2025,2025-08-19,Aktif,25tr0016@student.uadw.ac.id
+25TR0017,Akbar Putri Safitri,L,2007-06-11,Mataram,TR ,TR,2025,2025-08-20,Aktif,25tr0017@student.uadw.ac.id
+25TR0018,Lukman Maharani,P,07/12/2007,Banda Aceh,TR,TR,2025,2025-08-20,Aktif,25tr0018@student.uadw.ac.id
+25TR0019,Tiara Ningsih Fadillah,L,2006-02-28,Banda Aceh,TR,Teknologi Rekayasa Komputer,2025,2025-08-17,Aktif,25tr0019@student.uadw.ac.id
+25TR0020,Dewi Febriani,P,2007-10-17,Yogyakarta,TR,Teknologi Rekayasa Komputer,2025,21/08/2025,Aktif,25tr0020@student.uadw.ac.id
+25TR0021,Galih Hidayat Prasetyo,P,2006-08-23,Wakatobi,TR,Teknologi Rekayasa Komputer,2025,2025-08-18,Aktif,25tr0021@student.uadw.ac.id
+25TR0022,Farhan Ananda Permatasari,P,23/01/2007,Kolaka,TR,Teknologi Rekayasa Komputer,2025,2025-08-23,Aktif,25tr0022@student.uadw.ac.id
+25TR0023,Wulan Putri,L,2007-10-25,Padang,TR,Teknologi Rekayasa Komputer,2025,2025-08-24,Aktif,25tr0023@student.uadw.ac.id
+25TR0024,Hafiz Kurniawan Oktaviani,Laki-laki,2007-04-03,Padang,TR,TEKNOLOGI REKAYASA KOMPUTER,2025,15-Aug-2025,Aktif,25tr0024@student.uadw.ac.id
+25TR0025,Anisa Permana,Perempuan,2007-06-13,Baubau,TR,Tek. Rekayasa Komputer,2025,19-Aug-2025,Aktif,25tr0025@student.uadw.ac.id
+25TR0026,Alya Pratama Wardana,P,2006-03-25,Gorontalo,TR,Teknologi Rekayasa Komputer,2025,21-Aug-2025,Aktif,25tr0026@student.uadw.ac.id
+25TR0027,Putri Anggraini Azzahra,L,2007-10-25,Palembang,TR,TRK,2025,2025-08-17,Aktif,25tr0027@student.uadw.ac.id
+25TR0028,Fitri Yusuf Safitri,Perempuan,2007-12-06,Baubau,tr,TRK,2025,24/08/2025,Aktif,25tr0028@student.uadw.ac.id
+25TR0029,Ilham Putra Rahmawati,L,2008-12-25,Banda Aceh,tr,Teknologi Rekayasa Komputer,2025,2025-08-21,Aktif,25tr0029@student.uadw.ac.id
+25TR0030,Reza Rasyid,P,2007-03-01,Wakatobi,TR,Teknologi Rekayasa Komputer,2025,21-Aug-2025,Aktif,25tr0030@student.uadw.ac.id
+25TR0031,Ilham Anggraini,L,2008-03-26,Raha,TR,Teknologi Rekayasa Komputer,2025,2025-08-21,Aktif,25tr0031@student.uadw.ac.id
+25TR0032,Nabila Maulana Mulyani,L,2006-12-09,Manado,TR,Teknologi Rekayasa Komputer,2025,18/08/2025,Aktif,25tr0032@student.uadw.ac.id
+25TR0033,Anisa Purnama,P,2007-08-08,Semarang,TR,Teknologi Rekayasa Komputer,2025,19/08/2025,Aktif,25tr0033@student.uadw.ac.id
+25TR0034,Fajar Febriani Syahputra,Laki-laki,2007-11-18,,TR,TRK,2025,2025-08-18,Aktif,25tr0034@student.uadw.ac.id
+25TR0035,Grace Ningsih,L,2007-02-10,Manado,TR,Teknologi Rekayasa Komputer,2025,2025-08-21,Aktif,25tr0035@student.uadw.ac.id
+25TR0036,Nur Putri Hermawan,L,2007-09-23,Mataram,TR,Teknologi Rekayasa Komputer,2025,2025-08-21,Aktif,25tr0036@student.uadw.ac.id
+25TR0037,Vina Wahyuni Fadillah,F,2005-06-23,Padang,TR,Teknologi Rekayasa Komputer,2025,2025-08-20,Aktif,25tr0037@student.uadw.ac.id
+25TR0038,Putri Nugraha Wardana,L,2006-07-26,Surabaya,TR,Teknologi Rekayasa Komputer,2025,2025-08-25,Aktif,25tr0038@student.uadw.ac.id
+25TR0039,Salma Maulana Oktaviani,P,26-Mar-2007,Manado,TR,TRK,2025,2025-08-20,Aktif,25tr0039@student.uadw.ac.id
+25TR0040,Kevin Saputra Susanti,P,2006-02-04,Ambon, TR,Teknologi Rekayasa Komputer,2025,16/08/2025,Aktif,25tr0040@student.uadw.ac.id
+25TR0041,Reza Wijaya Oktaviani,Perempuan,2007-02-18,Makassar,TR,Teknologi Rekayasa Komputer,2025,2025-08-15,Aktif,25tr0041@student.uadw.ac.id
+25TR0042,Raka Utami,P,15/05/2007,Mataram,TR,Teknologi Rekayasa Komputer,2025,25-Aug-2025,Aktif,25tr0042@student.uadw.ac.id
+25TR0043,Aulia Yusuf,L,2005-05-27,Makassar,TR,Teknologi Rekayasa Komputer,2025,21/08/2025,Aktif,25tr0043@student.uadw.ac.id
+25TR0044,Zahra Firmansyah Halim,Laki-laki,2007-10-12,Yogyakarta,TR ,Teknologi Rekayasa Komputer,2025,2025-08-21,Aktif,25tr0044@student.uadw.ac.id
+25TR0045,Rizky Lestari Rahmawati,L,2006-05-27,Wakatobi,TR,Teknologi Rekayasa Komputer,2025,2025-08-24,Aktif,25tr0045@student.uadw.ac.id
+25TR0046,Intan Ningsih Hasan,P,19-May-2006,Mataram,TR,TRK,2025,2025-08-22,Aktif,25tr0046@student.uadw.ac.id
+25TR0047,Andi Maharani,M,2006-07-21,Semarang,TR,Teknologi Rekayasa Komputer,2025,2025-08-16,Aktif,25tr0047@student.uadw.ac.id
+25TR0048,Siti Nugraha,L,2006-12-13,Kolaka,TR,Teknologi Rekayasa Komputer,2025,2025-08-15,Aktif,25tr0048@student.uadw.ac.id
+25TR0049,Rizky Lestari Permatasari,Laki-laki,04-Mar-2006,Palembang,TR,Teknologi Rekayasa Komputer,2025,2025-08-16,Aktif,25tr0049@student.uadw.ac.id
+25TR0050,Fajar Saputra Hermawan,L,08/03/2006,Kendari,TR,TR,2025,2025-08-21,Aktif,25tr0050@student.uadw.ac.id
+25TR0051,Bagas Rasyid,L,01-May-2007,Makassar,TR,Teknologi Rekayasa Komputer,2025,2025-08-25,Aktif,25tr0051@student.uadw.ac.id
+25TR0052,Tiara Wijaya,P,08-Oct-2007,Bandung, TR,Teknologi Rekayasa Komputer,2025,2025-08-23,Aktif,25tr0052@student.uadw.ac.id
+25TR0053,Nur Ananda Rahmawati,L,2007-07-15,Manado,TR,TR,2025,2025-08-16,Aktif,25tr0053@student.uadw.ac.id
+25TR0054,Aulia Maulana,L,2007-01-22,Banda Aceh,TR,TR,2025,2025-08-22,Aktif,25tr0054@student.uadw.ac.id
+25TR0055,Maya Anggraini Fadillah,L,2008-11-07,Mataram,TR,Teknologi Rekayasa Komputer,2025,21/08/2025,Aktif,25tr0055@student.uadw.ac.id
+25TR0056,Galih Nugraha Nugroho,L,2006-11-21,Baubau,TR,TRK,2025,20/08/2025,Aktif,25tr0056@student.uadw.ac.id
+25TR0057,Hafiz Nugraha Rahmawati,Laki-laki,09/12/2007,,TR,Teknologi Rekayasa Komputer,2025,2025-08-16,Aktif,25tr0057@student.uadw.ac.id
+25TR0058,Putri Putra,Laki-laki,2008-11-23,Banda Aceh,TR,Teknologi Rekayasa Komputer,2025,2025-08-21,Aktif,25tr0058@student.uadw.ac.id
+25TR0059,Akbar Lestari,L,28/09/2006,Ambon,TR,Teknologi Rekayasa Komputer,2025,2025-08-24,Aktif,25tr0059@student.uadw.ac.id
+25TR0060,Maya Ningsih,P,18-Sep-2007,Gorontalo,TR,Teknologi Rekayasa Komputer,2025,2025-08-15,Aktif,25tr0060@student.uadw.ac.id
+25TR0061,Putri Firmansyah Permatasari,L,2006-10-05,Baubau,TR,Teknologi Rekayasa Komputer,2025,23/08/2025,Aktif,25tr0061@student.uadw.ac.id
+25TR0062,Iqbal Maharani,L,26/03/2007,Baubau,TR,Teknologi Rekayasa Komputer,2025,2025-08-23,Aktif,25tr0062@student.uadw.ac.id
+25TR0063,Nabila Saputra Fadillah,L,22/03/2007,Mataram,TR,Teknologi Rekayasa Komputer,2025,2025-08-17,Aktif,25tr0063@student.uadw.ac.id
+25TR0064,Rani Hakim Iskandar,P,2007-11-03,Baubau,TR,Teknologi Rekayasa Komputer,2025,21-Aug-2025,Aktif,25tr0064@student.uadw.ac.id
+25TR0065,Rani Putra Sulaiman,P,2006-06-05,Yogyakarta,TR,Teknologi Rekayasa Komputer,2025,2025-08-17,Aktif,25tr0065@student.uadw.ac.id
+25TR0066,Syifa Ramadhan Melati,L,2007-11-01,Mataram,TR,Teknologi Rekayasa Komputer,2025,2025-08-23,Aktif,25tr0066@student.uadw.ac.id
+25TR0067,Dian Maharani,P,20/09/2005,Wakatobi,TR,Teknologi Rekayasa Komputer,2025,2025-08-17,Aktif,25tr0067@student.uadw.ac.id
+25TR0068,Dewi Lestari,L,2008-04-08,Padang,TR,Teknologi Rekayasa Komputer,2025,2025-08-20,Aktif,25tr0068@student.uadw.ac.id
+25TR0069,Siti Amelia Gunawan,Perempuan,21/10/2005,Semarang,TR,Teknologi Rekayasa Komputer,2025,2025-08-20,Aktif,25tr0069@student.uadw.ac.id
+25TR0070,Putri Rasyid Gunawan,L,21-Apr-2006,Manado,TR,TRK,2025,18/08/2025,Aktif,25tr0070@student.uadw.ac.id
+25TR0071,Yoga Wijaya Hasan,L,2008-07-13,Ambon,TR,Teknologi Rekayasa Komputer,2025,2025-08-17,Aktif,25tr0071@student.uadw.ac.id
+25TR0072,Rani Ananda,Perempuan,2006-12-02,Palembang,TR,TR,2025,18-Aug-2025,Aktif,25tr0072@student.uadw.ac.id
+25TR0073,Aulia Ananda Nugroho,L,2007-12-05,Padang,TR,Teknologi Rekayasa Komputer,2025,15/08/2025,Aktif,25tr0073@student.uadw.ac.id
+25TR0074,Lukman Anggraini,Laki-laki,2008-01-05,Semarang,TR,Teknologi Rekayasa Komputer,2025,2025-08-19,Aktif,25tr0074@student.uadw.ac.id
+25TR0075,Nadia Hakim Rahmawati,P,2005-08-27,Medan,TR,Teknologi Rekayasa Komputer,2025,2025-08-21,Aktif,25tr0075@student.uadw.ac.id
+25TR0076,Zahra Ramadhan Nasution,P,2006-03-14,Raha,TR,Teknologi Rekayasa Komputer,2025,20-Aug-2025,Aktif,25tr0076@student.uadw.ac.id
+25TR0077,Wulan Santoso Nugroho,L,2007-05-20,Ambon,TR,Teknologi Rekayasa Komputer,2025,25/08/2025,Aktif,25tr0077@student.uadw.ac.id
+25TR0078,Intan Hidayat,L,2008-08-20,Yogyakarta,TR,Teknologi Rekayasa Komputer,2025,19-Aug-2025,Aktif,25tr0078@student.uadw.ac.id
+25TR0079,Syifa Ramadhan,L,2007-12-25,Medan,TR,TRK,2025,2025-08-18,Aktif,25tr0079@student.uadw.ac.id
+25BD0001,Intan Wijaya,L,04/09/2007,Medan,BD,BISNIS DIGITAL,2025,2025-08-18,Aktif,25bd0001@student.uadw.ac.id
+25BD0002,Taufik Febriani,L,26/06/2005,Kendari,BD,Bisnis Digital,2025,2025-08-22,Aktif,25bd0002@student.uadw.ac.id
+25BD0003,Anisa Maharani Melati,P,2006-09-22,Manado,BD,Bisnis Digital,2025,17/08/2025,Aktif,25bd0003@student.uadw.ac.id
+25BD0004,Fauzan Santoso,P,2008-04-10,Bandung,BD,Bisnis Digital,2025,2025-08-17,Aktif,25bd0004@student.uadw.ac.id
+25BD0005,Intan Ananda Halim,Perempuan,02-Mar-2007,Wakatobi, BD,Bisnis Digital,2025,17/08/2025,Aktif,25bd0005@student.uadw.ac.id
+25BD0006,Akbar Maulana,L,2006-06-14,Padang,BD,Bisnis Dig.,2025,2025-08-17,Aktif,25bd0006@student.uadw.ac.id
+25BD0007,Fitri Firmansyah Siregar,P,23/01/2007,Bandung,BD,Bisnis Digital,2025,2025-08-24,Aktif,25bd0007@student.uadw.ac.id
+25BD0008,Anisa Anggraini Hermawan,L,2007-07-08,Mataram,BD,BD,2025,2025-08-25,Aktif,25bd0008@student.uadw.ac.id
+25BD0009,Farhan Hidayat Herlambang,L,2008-06-20,Gorontalo,BD,Bisnis Digital,2025,2025-08-24,Aktif,25bd0009@student.uadw.ac.id
+25BD0010,Fauzan Lestari,P,2007-09-15,Wakatobi,BD,Bisnis Digital,2025,24-Aug-2025,Aktif,25bd0010@student.uadw.ac.id
+25BD0011,Dian Purnama Hasan,Laki-laki,19/10/2006,Wakatobi,BD,Bisnis Digital,2025,2025-08-22,Aktif,25bd0011@student.uadw.ac.id
+25BD0012,Salma Wahyuni,P,2007-12-24,Yogyakarta,bd,Bisnis Digital,2025,2025-08-16,Aktif,25bd0012@student.uadw.ac.id
+25BD0013,Rizky Putri,P,2007-01-04,Padang,BD,Bisnis Digital,2025,2025-08-17,Aktif,25bd0013@student.uadw.ac.id
+25BD0014,Kevin Putra Wardana,L,2007-01-27,Palu,BD,Bisnis Digital,2025,2025-08-20,Aktif,25bd0014@student.uadw.ac.id
+25BD0015,Lukman Firmansyah Prasetyo,L,2007-03-04,Palu,BD,Bisnis Digital,2025,2025-08-24,Aktif,25bd0015@student.uadw.ac.id
+25BD0016,Tiara Permana Prasetyo,L,2006-05-17,Palu,BD,Bisnis Digital,2025,20/08/2025,Aktif,25bd0016@student.uadw.ac.id
+25BD0017,Reza Firmansyah,L,2008-10-28,Medan,BD,Bisnis Digital,2025,2025-08-19,Aktif,25bd0017@student.uadw.ac.id
+25BD0018,Dewi Aziz,Laki-laki,2006-09-21,Manado,BD,Bisnis Digital,2025,24-Aug-2025,Aktif,25bd0018@student.uadw.ac.id
+25BD0019,Reza Febriani Karim,P,2007-02-11,Unaaha,BD,Bisnis Digital,2025,2025-08-20,Aktif,25bd0019@student.uadw.ac.id
+25BD0020,Reza Kurniawan Safitri,M,13/12/2006,Kendari,BD ,Bisnis Digital,2025,2025-08-24,Aktif,25bd0020@student.uadw.ac.id
+25BD0021,Aulia Wahyuni Kusuma,L,2007-07-08,Bandung,BD,Bisnis Digital,2025,2025-08-21,Aktif,25bd0021@student.uadw.ac.id
+25BD0022,Grace Nugraha Setiaji,L,27/05/2005,Medan,BD,BISNIS DIGITAL,2025,16-Aug-2025,Aktif,25bd0022@student.uadw.ac.id
+25BD0023,Hafiz Rasyid Hermawan,L,2006-03-02,Bandung,BD ,Bisnis Digital,2025,2025-08-22,Aktif,25bd0023@student.uadw.ac.id
+25BD0024,Syifa Wijaya,P,2006-03-10,Surabaya,BD,Bisnis Digital,2025,2025-08-15,Aktif,25bd0024@student.uadw.ac.id
+25BD0025,Dewi Firmansyah Syahputra,L,2008-11-20,Palembang,BD,Bisnis Digital,2025,2025-08-16,Aktif,25bd0025@student.uadw.ac.id
+25BD0026,Farhan Nugraha Azzahra,P,03/11/2008,Raha,BD,Bisnis Digital,2025,25-Aug-2025,Aktif,25bd0026@student.uadw.ac.id
+25BD0027,Nur Purnama,P,2007-08-27,Palu,BD,Bisnis Digital,2025,2025-08-21,Aktif,25bd0027@student.uadw.ac.id
+25BD0028,Rina Fauzi,L,14/08/2006,Makassar,BD,Bisnis Digital,2025,2025-08-20,Aktif,25bd0028@student.uadw.ac.id
+25BD0029,Dimas Sari,Laki-laki,2007-08-05,Mataram,BD ,Bisnis Digital,2025,25/08/2025,Aktif,25bd0029@student.uadw.ac.id
+25BD0030,Fajar Permana,P,06/06/2007,Padang,BD,Bisnis Digital,2025,2025-08-16,Aktif,25bd0030@student.uadw.ac.id
+25BD0031,Andi Sari,P,2006-04-04,Baubau,BD,Bisnis Digital,2025,2025-08-22,Aktif,25bd0031@student.uadw.ac.id
+25BD0032,Tiara Firmansyah,L,14/08/2008,Padang,BD,Bisnis Digital,2025,2025-08-17,Aktif,25bd0032@student.uadw.ac.id
+25BD0033,Rani Putra Sulaiman,L,2007-12-05,Palu,BD,Bisnis Digital,2025,2025-08-22,Aktif,25bd0033@student.uadw.ac.id
+25BD0034,Andi Putra,P,2005-06-12,Padang,BD,Bisnis Digital,2025,19-Aug-2025,Aktif,25bd0034@student.uadw.ac.id
+25BD0035,Dewi Wijaya,L,2007-11-03,Kendari,BD,Bisnis Digital,2025,2025-08-18,Aktif,25bd0035@student.uadw.ac.id
+25BD0036,Rizky Permana,P,01-Dec-2007,Wakatobi,BD,Bisnis Digital,2025,2025-08-22,Aktif,25bd0036@student.uadw.ac.id
+25BD0037,Samuel Firmansyah,P,2007-09-23,Makassar,BD,Bisnis Digital,2025,2025-08-22,Aktif,25bd0037@student.uadw.ac.id
+25BD0038,Fauzan Lestari,L,01-Jun-2005,Yogyakarta,BD,Bisnis Digital,2025,2025-08-16,Aktif,25bd0038@student.uadw.ac.id
+25BD0039,Maya Kurniawan Nugroho,P,2006-02-07,Banda Aceh,BD,Bisnis Digital,2025,2025-08-16,Aktif,25bd0039@student.uadw.ac.id
+25BD0040,Vina Santoso Mahendra,L,2008-03-26,Baubau,BD,Bisnis Digital,2025,2025-08-20,Aktif,25bd0040@student.uadw.ac.id
+25BD0041,Samuel Sari,P,25/03/2007,Wakatobi,BD,Bisnis Digital,2025,15-Aug-2025,Aktif,25bd0041@student.uadw.ac.id
+25BD0042,Farhan Fauzi Halim,L,2008-06-20,Mataram,BD,Bisnis Digital,2025,2025-08-24,Aktif,25bd0042@student.uadw.ac.id
+25BD0043,Akbar Saputra,L,17/01/2005,Baubau,BD,Bisnis Digital,2025,2025-08-23,Aktif,25bd0043@student.uadw.ac.id
+25BD0044,Maya Purnama Gunawan,L,15-Oct-2005,Kolaka,BD,Bisnis Digital,2025,2025-08-16,Aktif,25bd0044@student.uadw.ac.id
+25BD0045,Galih Putra Herlambang,P,2005-03-18,Palu,BD,Bisnis Digital,2025,2025-08-17,Aktif,25bd0045@student.uadw.ac.id
+25BD0046,Zahra Febriani Oktaviani,P,17/01/2007,Baubau,BD,Bisnis Dig.,2025,15/08/2025,Aktif,25bd0046@student.uadw.ac.id
+25BD0047,Aulia Wahyuni,P,2006-08-09,Makassar, BD,Bisnis digital,2025,2025-08-25,Aktif,25bd0047@student.uadw.ac.id
+25BD0048,Taufik Maharani Prasetyo,L,2006-12-15,Unaaha,BD,Bisnis Digital,2025,2025-08-20,Aktif,25bd0048@student.uadw.ac.id
+25BD0049,Aisyah Rasyid Hermawan,L,2007-12-06,Raha,BD,Bisnis Digital,2025,21-Aug-2025,Aktif,25bd0049@student.uadw.ac.id
+25BD0050,Yoga Pratama Wibowo,L,05-May-2007,Semarang,BD,Bisnis Digital,2025,2025-08-21,Aktif,25bd0050@student.uadw.ac.id
+25BD0051,Siti Maulana Siregar,P,03/01/2008,Makassar,bd,Bisnis Dig.,2025,2025-08-15,Aktif,25bd0051@student.uadw.ac.id
+25BD0052,Rina Ananda,M,10-Oct-2008,Mataram,BD,Bisnis Digital,2025,24/08/2025,Aktif,25bd0052@student.uadw.ac.id
+25BD0053,Taufik Ningsih,P,2008-10-17,Wakatobi,BD,Bisnis Digital,2025,2025-08-20,Aktif,25bd0053@student.uadw.ac.id
+25BD0054,Taufik Rasyid Iskandar,P,2007-03-13,Padang,BD,Bisnis Digital,2025,2025-08-22,Aktif,25bd0054@student.uadw.ac.id
+25BD0055,Rina Ningsih,P,2006-12-22,Raha, BD,Bisnis Digital,2025,25-Aug-2025,Aktif,25bd0055@student.uadw.ac.id
+25BD0056,Bagas Putri,Perempuan,2008-08-25,Surabaya,BD,Bisnis Digital,2025,2025-08-18,Aktif,25bd0056@student.uadw.ac.id
+25BD0057,Fajar Setiawan Susanti,Perempuan,2007-04-21,Bandung,BD,Bisnis Digital,2025,2025-08-21,Aktif,25bd0057@student.uadw.ac.id
+25BD0058,Intan Kurniawan,P,24/05/2007,Manado,BD,Bisnis Digital,2025,21/08/2025,Aktif,25bd0058@student.uadw.ac.id
+25BD0059,Iqbal Purnama Safitri,P,27/07/2005,Gorontalo,BD,Bisnis Digital,2025,21-Aug-2025,Aktif,25bd0059@student.uadw.ac.id
+25BD0060,Farhan Pratama Sulaiman,M,2006-08-16,Kendari,BD,Bisnis Digital,2025,2025-08-23,Aktif,25bd0060@student.uadw.ac.id
+25BD0061,Syifa Purnama,P,2005-05-24,Wakatobi,BD,Bisnis Digital,2025,25-Aug-2025,Aktif,25bd0061@student.uadw.ac.id
+25BD0062,Fitri Putri Rahmawati,Perempuan,2007-02-04,Baubau,BD,Bisnis Digital,2025,20-Aug-2025,Aktif,25bd0062@student.uadw.ac.id
+25BD0063,Yoga Wahyuni Nasution,Perempuan,05/11/2005,Bandung,BD,Bisnis Digital,2025,2025-08-19,Aktif,25bd0063@student.uadw.ac.id
+25BD0064,Syifa Ningsih,P,18-Jan-2007,Unaaha,BD,Bisnis Digital,2025,2025-08-15,Aktif,25bd0064@student.uadw.ac.id
+25BD0065,Dimas Putri,P,2006-08-27,Surabaya,BD,Bisnis Digital,2025,2025-08-18,Aktif,25bd0065@student.uadw.ac.id
+25BD0066,Rahmat Ananda Siregar,P,2005-05-02,,BD,Bisnis Digital,2025,2025-08-15,Aktif,25bd0066@student.uadw.ac.id
+25BD0067,Fitri Putra Herlambang,L,2007-05-15,Medan,BD,Bisnis Digital,2025,2025-08-22,Aktif,25bd0067@student.uadw.ac.id
+25BD0068,Nur Yusuf,P,12-Jun-2007,Palembang,BD,Bisnis Digital,2025,2025-08-18,Aktif,25bd0068@student.uadw.ac.id
+25BD0069,Reza Ananda,P,2006-11-01,Wakatobi,BD,Bisnis Digital,2025,19/08/2025,Aktif,25bd0069@student.uadw.ac.id
+25BD0070,Vina Nugraha,P,2007-09-06,Manado,BD,Bisnis Digital,2025,2025-08-19,Aktif,25bd0070@student.uadw.ac.id
+25BD0071,Rahmat Maharani Iskandar,P,2007-01-23,Palu,BD,Bisnis Digital,2025,2025-08-15,Aktif,25bd0071@student.uadw.ac.id
+25BD0072,Dewi Maharani Iskandar,L,2005-09-26,Banda Aceh,BD,Bisnis Digital,2025,2025-08-24,Aktif,25bd0072@student.uadw.ac.id
+25BD0073,Putri Putri,L,2006-12-05,Palu,BD,Bisnis Digital,2025,2025-08-19,Aktif,25bd0073@student.uadw.ac.id
+25BD0074,Fajar Saputra,P,2007-02-15,Palu,BD,Bisnis Digital,2025,2025-08-21,Aktif,25bd0074@student.uadw.ac.id
+25BD0075,Raka Aziz,P,2007-05-07,Palembang,BD,Bisnis Digital,2025,2025-08-21,Aktif,25bd0075@student.uadw.ac.id
+25BD0076,Maya Ningsih Azzahra,P,2005-09-08,Mataram,bd,BISNIS DIGITAL,2025,2025-08-17,Aktif,25bd0076@student.uadw.ac.id
+25BD0077,Yoga Nugraha Iskandar,L,2007-06-14,Gorontalo,BD,BD,2025,15-Aug-2025,Aktif,25bd0077@student.uadw.ac.id
+25BD0078,Samuel Purnama Mahendra,L,15/03/2007,Baubau,BD,Bisnis Digital,2025,15-Aug-2025,Aktif,25bd0078@student.uadw.ac.id
+25BD0079,Bagas Nugraha Fadillah,P,2007-08-16,Semarang, BD,Bisnis Digital,2025,2025-08-25,Aktif,25bd0079@student.uadw.ac.id
+25BD0080,Rani Ananda,Laki-laki,2006-04-11,Palu,BD,BD,2025,2025-08-25,Aktif,25bd0080@student.uadw.ac.id
+25BD0081,Dian Sari Hermawan,P,03/08/2007,Palembang,BD,Bisnis Digital,2025,24-Aug-2025,Aktif,25bd0081@student.uadw.ac.id
+25BD0082,Zahra Permana,L,2008-11-10,Surabaya,BD,Bisnis Digital,2025,2025-08-25,Aktif,25bd0082@student.uadw.ac.id

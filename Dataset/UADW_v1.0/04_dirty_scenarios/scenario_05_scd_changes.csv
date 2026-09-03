@@ -1,0 +1,68 @@
+nim,field_changed,old_value,new_value,effective_date,change_reason,scd_recommendation
+23SI0015,kode_prodi,SI,DS,2025-08-01,Pindah program studi,Type 2
+24DS0057,kode_prodi,DS,IF,2025-08-01,Pindah program studi,Type 2
+22BD0063,kode_prodi,BD,DS,2025-08-01,Pindah program studi,Type 2
+24TI0036,kode_prodi,TI,TR,2025-08-01,Pindah program studi,Type 2
+24SI0063,kode_prodi,SI,DS,2025-08-01,Pindah program studi,Type 2
+23SI0008,kode_prodi,SI,TR,2025-08-01,Pindah program studi,Type 2
+24TI0093,kode_prodi,TI,SI,2025-08-01,Pindah program studi,Type 2
+24TR0020,kode_prodi,TR,SI,2025-08-01,Pindah program studi,Type 2
+22TR0002,kode_prodi,TR,SI,2025-08-01,Pindah program studi,Type 2
+23TR0013,kode_prodi,TR,DS,2025-08-01,Pindah program studi,Type 2
+22BD0042,kode_prodi,BD,TI,2025-08-01,Pindah program studi,Type 2
+22IF0008,kode_prodi,IF,DS,2025-08-01,Pindah program studi,Type 2
+23BD0075,kota_asal,Kolaka,Gorontalo,2025-09-15,Pembaruan domisili,Type 1
+24DS0071,kota_asal,Unaaha,Ambon,2025-09-15,Pembaruan domisili,Type 1
+23TR0011,kota_asal,Gorontalo,Semarang,2025-09-15,Pembaruan domisili,Type 1
+21BD0054,kota_asal,Medan,Kolaka,2025-09-15,Pembaruan domisili,Type 1
+24BD0059,kota_asal,Mataram,Bandung,2025-09-15,Pembaruan domisili,Type 1
+22IF0045,kota_asal,Kendari,Palembang,2025-09-15,Pembaruan domisili,Type 1
+22TI0013,kota_asal,Makassar,Palembang,2025-09-15,Pembaruan domisili,Type 1
+24TI0040,kota_asal,Baubau,Ambon,2025-09-15,Pembaruan domisili,Type 1
+23TI0013,kota_asal,Gorontalo,Unaaha,2025-09-15,Pembaruan domisili,Type 1
+21TI0073,kota_asal,Makassar,Manado,2025-09-15,Pembaruan domisili,Type 1
+22SI0054,kota_asal,Palu,Semarang,2025-09-15,Pembaruan domisili,Type 1
+23TR0017,kota_asal,Raha,Semarang,2025-09-15,Pembaruan domisili,Type 1
+23BD0058,kota_asal,Mataram,Palembang,2025-09-15,Pembaruan domisili,Type 1
+22TI0033,kota_asal,Manado,Surabaya,2025-09-15,Pembaruan domisili,Type 1
+23TI0040,kota_asal,Semarang,Raha,2025-09-15,Pembaruan domisili,Type 1
+22BD0046,kota_asal,Wakatobi,Yogyakarta,2025-09-15,Pembaruan domisili,Type 1
+22BD0061,kota_asal,Kolaka,Unaaha,2025-09-15,Pembaruan domisili,Type 1
+24TR0055,kota_asal,Bandung,Baubau,2025-09-15,Pembaruan domisili,Type 1
+21IF0041,kota_asal,Banda Aceh,Kendari,2025-09-15,Pembaruan domisili,Type 1
+22TR0041,kota_asal,Medan,Baubau,2025-09-15,Pembaruan domisili,Type 1
+22SI0023,kota_asal,Kendari,Mataram,2025-09-15,Pembaruan domisili,Type 1
+23TR0009,kota_asal,Palembang,Makassar,2025-09-15,Pembaruan domisili,Type 1
+22IF0064,kota_asal,Palu,Medan,2025-09-15,Pembaruan domisili,Type 1
+24TR0065,kota_asal,Baubau,Bandung,2025-09-15,Pembaruan domisili,Type 1
+22TI0014,kota_asal,Bandung,Makassar,2025-09-15,Pembaruan domisili,Type 1
+21BD0012,kota_asal,Gorontalo,Kolaka,2025-09-15,Pembaruan domisili,Type 1
+24BD0018,kota_asal,Palu,Raha,2025-09-15,Pembaruan domisili,Type 1
+23DS0070,kota_asal,Kolaka,Gorontalo,2025-09-15,Pembaruan domisili,Type 1
+23TR0068,kota_asal,Surabaya,Yogyakarta,2025-09-15,Pembaruan domisili,Type 1
+24IF0082,kota_asal,Raha,Kolaka,2025-09-15,Pembaruan domisili,Type 1
+22TI0082,kota_asal,Padang,Ambon,2025-09-15,Pembaruan domisili,Type 1
+23IF0042,kota_asal,Medan,Makassar,2025-09-15,Pembaruan domisili,Type 1
+22IF0032,kota_asal,Semarang,Yogyakarta,2025-09-15,Pembaruan domisili,Type 1
+22DS0023,kota_asal,Mataram,Semarang,2025-09-15,Pembaruan domisili,Type 1
+21TI0001,kota_asal,Surabaya,Semarang,2025-09-15,Pembaruan domisili,Type 1
+23TR0019,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2
+24BD0007,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2
+23TR0026,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2
+24TI0016,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2
+23IF0091,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2
+23SI0024,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2
+23TI0089,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2
+21BD0066,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2
+23TR0010,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2
+22SI0056,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2
+23IF0088,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2
+21BD0011,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2
+22BD0066,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2
+21TR0061,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2
+23SI0054,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2
+23DS0012,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2
+22DS0042,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2
+22TI0043,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2
+21IF0058,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2
+24SI0084,status,Aktif,Cuti,2026-02-01,Cuti akademik,Type 2

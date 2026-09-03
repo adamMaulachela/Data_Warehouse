@@ -1,0 +1,209 @@
+kode_mk,nama_mk,kode_prodi,sks,semester_rekomendasi,kategori,aktif
+MKU101,Pendidikan Agama,ALL,2,1,Universitas,Ya
+MKU102,Bahasa Indonesia,ALL,2,1,Universitas,Ya
+MKU201,Pancasila,ALL,2,2,Universitas,Ya
+MKU202,Bahasa Inggris,ALL,2,2,Universitas,Ya
+MKU301,Kewarganegaraan,ALL,2,3,Universitas,Ya
+MKU302,Statistika,ALL,2,3,Universitas,Ya
+MKU401,Kewirausahaan,ALL,2,4,Universitas,Ya
+MKU402,Etika Profesi,ALL,2,4,Universitas,Ya
+MKU501,Metodologi Penelitian,ALL,2,5,Universitas,Ya
+MKU502,Komunikasi Profesional,ALL,2,5,Universitas,Ya
+MKU601,Manajemen Proyek,ALL,2,6,Universitas,Ya
+MKU602,Literasi Data,ALL,2,6,Universitas,Ya
+MKU701,Seminar Proposal,ALL,2,7,Universitas,Ya
+MKU702,Magang,ALL,2,7,Universitas,Ya
+MKU801,Tugas Akhir,ALL,6,8,Universitas,Ya
+MKU802,Seminar Hasil,ALL,2,8,Universitas,Ya
+TI101,Dasar Teknologi Informasi,TI,3,1,Program Studi,Ya
+TI102,Logika Komputasi,TI,3,1,Program Studi,Ya
+TI103,Pemrograman Dasar,TI,3,1,Program Studi,Ya
+TI104,Matematika Diskrit,TI,2,1,Program Studi,Ya
+TI201,Struktur Data,TI,3,2,Program Studi,Ya
+TI202,Basis Data,TI,3,2,Program Studi,Ya
+TI203,Jaringan Komputer,TI,3,2,Program Studi,Ya
+TI204,Sistem Operasi,TI,2,2,Program Studi,Ya
+TI301,Pemrograman Web,TI,3,3,Program Studi,Ya
+TI302,Analisis Proses Bisnis,TI,3,3,Program Studi,Ya
+TI303,Keamanan Informasi,TI,3,3,Program Studi,Ya
+TI304,Interaksi Manusia Komputer,TI,2,3,Program Studi,Ya
+TI401,Rekayasa Perangkat Lunak,TI,3,4,Program Studi,Ya
+TI402,Cloud Computing,TI,3,4,Program Studi,Ya
+TI403,Integrasi Sistem,TI,3,4,Program Studi,Ya
+TI404,Data Warehouse,TI,2,4,Program Studi,Ya
+TI501,Business Intelligence,TI,3,5,Program Studi,Ya
+TI502,Data Mining,TI,3,5,Program Studi,Ya
+TI503,Arsitektur Enterprise,TI,3,5,Program Studi,Ya
+TI504,Manajemen Layanan TI,TI,2,5,Program Studi,Ya
+TI601,DevOps,TI,3,6,Program Studi,Ya
+TI602,Audit TI,TI,3,6,Program Studi,Ya
+TI603,Tata Kelola TI,TI,3,6,Program Studi,Ya
+TI604,Proyek TI,TI,2,6,Program Studi,Ya
+TI701,Analitik Bisnis,TI,3,7,Program Studi,Ya
+TI702,Sistem Terdistribusi,TI,3,7,Program Studi,Ya
+TI703,Big Data,TI,3,7,Program Studi,Ya
+TI704,IoT Enterprise,TI,2,7,Program Studi,Ya
+TI801,Manajemen Data,TI,3,8,Program Studi,Ya
+TI802,Visualisasi Data,TI,3,8,Program Studi,Ya
+TI803,Forensik Digital,TI,3,8,Program Studi,Ya
+TI804,Topik Khusus TI,TI,2,8,Program Studi,Ya
+SI101,Pengantar Sistem Informasi,SI,3,1,Program Studi,Ya
+SI102,Logika Sistem,SI,3,1,Program Studi,Ya
+SI103,Pemrograman Dasar,SI,3,1,Program Studi,Ya
+SI104,Matematika Bisnis,SI,2,1,Program Studi,Ya
+SI201,Analisis Sistem,SI,3,2,Program Studi,Ya
+SI202,Basis Data,SI,3,2,Program Studi,Ya
+SI203,Jaringan Bisnis,SI,3,2,Program Studi,Ya
+SI204,Sistem Operasi,SI,2,2,Program Studi,Ya
+SI301,Pemrograman Web,SI,3,3,Program Studi,Ya
+SI302,Proses Bisnis,SI,3,3,Program Studi,Ya
+SI303,Keamanan SI,SI,3,3,Program Studi,Ya
+SI304,UX Design,SI,2,3,Program Studi,Ya
+SI401,Rekayasa Sistem Informasi,SI,3,4,Program Studi,Ya
+SI402,ERP,SI,3,4,Program Studi,Ya
+SI403,Integrasi Aplikasi,SI,3,4,Program Studi,Ya
+SI404,Data Warehouse,SI,2,4,Program Studi,Ya
+SI501,Business Intelligence,SI,3,5,Program Studi,Ya
+SI502,Data Mining,SI,3,5,Program Studi,Ya
+SI503,Arsitektur Enterprise,SI,3,5,Program Studi,Ya
+SI504,Manajemen Proyek SI,SI,2,5,Program Studi,Ya
+SI601,E-Business,SI,3,6,Program Studi,Ya
+SI602,Audit SI,SI,3,6,Program Studi,Ya
+SI603,Tata Kelola SI,SI,3,6,Program Studi,Ya
+SI604,Proyek SI,SI,2,6,Program Studi,Ya
+SI701,Analitik Bisnis,SI,3,7,Program Studi,Ya
+SI702,CRM,SI,3,7,Program Studi,Ya
+SI703,Big Data Bisnis,SI,3,7,Program Studi,Ya
+SI704,Sistem Pendukung Keputusan,SI,2,7,Program Studi,Ya
+SI801,Manajemen Data,SI,3,8,Program Studi,Ya
+SI802,Visualisasi Bisnis,SI,3,8,Program Studi,Ya
+SI803,Digital Transformation,SI,3,8,Program Studi,Ya
+SI804,Topik Khusus SI,SI,2,8,Program Studi,Ya
+IF101,Dasar Informatika,IF,3,1,Program Studi,Ya
+IF102,Logika Informatika,IF,3,1,Program Studi,Ya
+IF103,Algoritma dan Pemrograman,IF,3,1,Program Studi,Ya
+IF104,Matematika Diskrit,IF,2,1,Program Studi,Ya
+IF201,Struktur Data,IF,3,2,Program Studi,Ya
+IF202,Basis Data,IF,3,2,Program Studi,Ya
+IF203,Jaringan Komputer,IF,3,2,Program Studi,Ya
+IF204,Sistem Operasi,IF,2,2,Program Studi,Ya
+IF301,Pemrograman Berorientasi Objek,IF,3,3,Program Studi,Ya
+IF302,Teori Bahasa dan Automata,IF,3,3,Program Studi,Ya
+IF303,Keamanan Komputer,IF,3,3,Program Studi,Ya
+IF304,Grafika Komputer,IF,2,3,Program Studi,Ya
+IF401,Rekayasa Perangkat Lunak,IF,3,4,Program Studi,Ya
+IF402,Kecerdasan Buatan,IF,3,4,Program Studi,Ya
+IF403,Komputasi Awan,IF,3,4,Program Studi,Ya
+IF404,Data Warehouse,IF,2,4,Program Studi,Ya
+IF501,Machine Learning,IF,3,5,Program Studi,Ya
+IF502,Data Mining,IF,3,5,Program Studi,Ya
+IF503,Pengolahan Citra,IF,3,5,Program Studi,Ya
+IF504,Pemrograman Mobile,IF,2,5,Program Studi,Ya
+IF601,Sistem Cerdas,IF,3,6,Program Studi,Ya
+IF602,Analisis Algoritma,IF,3,6,Program Studi,Ya
+IF603,Komputasi Paralel,IF,3,6,Program Studi,Ya
+IF604,Proyek Informatika,IF,2,6,Program Studi,Ya
+IF701,NLP,IF,3,7,Program Studi,Ya
+IF702,Computer Vision,IF,3,7,Program Studi,Ya
+IF703,Big Data,IF,3,7,Program Studi,Ya
+IF704,IoT,IF,2,7,Program Studi,Ya
+IF801,Manajemen Data,IF,3,8,Program Studi,Ya
+IF802,Visualisasi Data,IF,3,8,Program Studi,Ya
+IF803,Forensik Digital,IF,3,8,Program Studi,Ya
+IF804,Topik Khusus Informatika,IF,2,8,Program Studi,Ya
+DS101,Pengantar Sains Data,DS,3,1,Program Studi,Ya
+DS102,Logika Komputasi,DS,3,1,Program Studi,Ya
+DS103,Pemrograman Python,DS,3,1,Program Studi,Ya
+DS104,Kalkulus,DS,2,1,Program Studi,Ya
+DS201,Struktur Data,DS,3,2,Program Studi,Ya
+DS202,Basis Data,DS,3,2,Program Studi,Ya
+DS203,Probabilitas,DS,3,2,Program Studi,Ya
+DS204,Statistika Dasar,DS,2,2,Program Studi,Ya
+DS301,Eksplorasi Data,DS,3,3,Program Studi,Ya
+DS302,Aljabar Linear,DS,3,3,Program Studi,Ya
+DS303,Data Wrangling,DS,3,3,Program Studi,Ya
+DS304,Visualisasi Data,DS,2,3,Program Studi,Ya
+DS401,Rekayasa Data,DS,3,4,Program Studi,Ya
+DS402,Machine Learning,DS,3,4,Program Studi,Ya
+DS403,Komputasi Awan,DS,3,4,Program Studi,Ya
+DS404,Data Warehouse,DS,2,4,Program Studi,Ya
+DS501,Business Intelligence,DS,3,5,Program Studi,Ya
+DS502,Data Mining,DS,3,5,Program Studi,Ya
+DS503,Statistika Multivariat,DS,3,5,Program Studi,Ya
+DS504,Time Series,DS,2,5,Program Studi,Ya
+DS601,Deep Learning,DS,3,6,Program Studi,Ya
+DS602,Optimisasi,DS,3,6,Program Studi,Ya
+DS603,Big Data,DS,3,6,Program Studi,Ya
+DS604,Proyek Sains Data,DS,2,6,Program Studi,Ya
+DS701,NLP,DS,3,7,Program Studi,Ya
+DS702,Computer Vision,DS,3,7,Program Studi,Ya
+DS703,MLOps,DS,3,7,Program Studi,Ya
+DS704,Data Governance,DS,2,7,Program Studi,Ya
+DS801,Manajemen Data,DS,3,8,Program Studi,Ya
+DS802,Analitik Spasial,DS,3,8,Program Studi,Ya
+DS803,Responsible AI,DS,3,8,Program Studi,Ya
+DS804,Topik Khusus Sains Data,DS,2,8,Program Studi,Ya
+TR101,Pengantar Rekayasa Komputer,TR,3,1,Program Studi,Ya
+TR102,Logika Digital,TR,3,1,Program Studi,Ya
+TR103,Pemrograman Dasar,TR,3,1,Program Studi,Ya
+TR104,Matematika Teknik,TR,2,1,Program Studi,Ya
+TR201,Elektronika Dasar,TR,3,2,Program Studi,Ya
+TR202,Basis Data,TR,3,2,Program Studi,Ya
+TR203,Jaringan Komputer,TR,3,2,Program Studi,Ya
+TR204,Sistem Operasi,TR,2,2,Program Studi,Ya
+TR301,Mikrokontroler,TR,3,3,Program Studi,Ya
+TR302,Arsitektur Komputer,TR,3,3,Program Studi,Ya
+TR303,Keamanan Perangkat,TR,3,3,Program Studi,Ya
+TR304,Sistem Embedded,TR,2,3,Program Studi,Ya
+TR401,Rekayasa Perangkat Lunak,TR,3,4,Program Studi,Ya
+TR402,Cloud Computing,TR,3,4,Program Studi,Ya
+TR403,Integrasi Sistem,TR,3,4,Program Studi,Ya
+TR404,Data Warehouse,TR,2,4,Program Studi,Ya
+TR501,Business Intelligence,TR,3,5,Program Studi,Ya
+TR502,Data Mining,TR,3,5,Program Studi,Ya
+TR503,Jaringan Sensor,TR,3,5,Program Studi,Ya
+TR504,IoT,TR,2,5,Program Studi,Ya
+TR601,Robotika,TR,3,6,Program Studi,Ya
+TR602,Sistem Waktu Nyata,TR,3,6,Program Studi,Ya
+TR603,Edge Computing,TR,3,6,Program Studi,Ya
+TR604,Proyek Rekayasa,TR,2,6,Program Studi,Ya
+TR701,Analitik IoT,TR,3,7,Program Studi,Ya
+TR702,Sistem Kendali,TR,3,7,Program Studi,Ya
+TR703,Big Data,TR,3,7,Program Studi,Ya
+TR704,Keamanan IoT,TR,2,7,Program Studi,Ya
+TR801,Manajemen Data,TR,3,8,Program Studi,Ya
+TR802,Visualisasi Data,TR,3,8,Program Studi,Ya
+TR803,Forensik Perangkat,TR,3,8,Program Studi,Ya
+TR804,Topik Khusus Rekayasa,TR,2,8,Program Studi,Ya
+BD101,Pengantar Bisnis Digital,BD,3,1,Program Studi,Ya
+BD102,Logika Bisnis,BD,3,1,Program Studi,Ya
+BD103,Pemrograman Dasar,BD,3,1,Program Studi,Ya
+BD104,Matematika Bisnis,BD,2,1,Program Studi,Ya
+BD201,Ekonomi Digital,BD,3,2,Program Studi,Ya
+BD202,Basis Data,BD,3,2,Program Studi,Ya
+BD203,Pemasaran Digital,BD,3,2,Program Studi,Ya
+BD204,Sistem Informasi Bisnis,BD,2,2,Program Studi,Ya
+BD301,E-Commerce,BD,3,3,Program Studi,Ya
+BD302,Proses Bisnis,BD,3,3,Program Studi,Ya
+BD303,Keamanan Transaksi,BD,3,3,Program Studi,Ya
+BD304,UX Bisnis,BD,2,3,Program Studi,Ya
+BD401,Rekayasa Sistem Bisnis,BD,3,4,Program Studi,Ya
+BD402,ERP,BD,3,4,Program Studi,Ya
+BD403,Integrasi Platform,BD,3,4,Program Studi,Ya
+BD404,Data Warehouse,BD,2,4,Program Studi,Ya
+BD501,Business Intelligence,BD,3,5,Program Studi,Ya
+BD502,Data Mining,BD,3,5,Program Studi,Ya
+BD503,Analitik Pelanggan,BD,3,5,Program Studi,Ya
+BD504,Fintech,BD,2,5,Program Studi,Ya
+BD601,Digital Marketing Analytics,BD,3,6,Program Studi,Ya
+BD602,Audit Digital,BD,3,6,Program Studi,Ya
+BD603,Tata Kelola Digital,BD,3,6,Program Studi,Ya
+BD604,Proyek Bisnis Digital,BD,2,6,Program Studi,Ya
+BD701,Analitik Bisnis,BD,3,7,Program Studi,Ya
+BD702,CRM,BD,3,7,Program Studi,Ya
+BD703,Big Data Bisnis,BD,3,7,Program Studi,Ya
+BD704,Sistem Pendukung Keputusan,BD,2,7,Program Studi,Ya
+BD801,Manajemen Data,BD,3,8,Program Studi,Ya
+BD802,Visualisasi Bisnis,BD,3,8,Program Studi,Ya
+BD803,Strategi Transformasi Digital,BD,3,8,Program Studi,Ya
+BD804,Topik Khusus Bisnis Digital,BD,2,8,Program Studi,Ya

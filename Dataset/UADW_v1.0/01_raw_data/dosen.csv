@@ -1,0 +1,97 @@
+nidn,nama_dosen,jk_raw,unit_prodi_raw,jabatan_akademik,tanggal_masuk_raw,status
+0901000001,Anisa Maharani Iskandar,P,Teknologi informasi,Lektor,2020-05-18,Aktif
+0901000002,Dewi Utami,Laki-laki,Teknologi Informasi,Lektor,20/08/2020,Aktif
+0901000003,Rizky Firmansyah,P,Teknologi Informasi,Lektor,2011-02-28,Aktif
+0901000004,Samuel Ningsih,Perempuan,Teknologi Informasi,Lektor,2018-08-16,Aktif
+0901000005,Syifa Yusuf Mahendra,L,TEKNOLOGI INFORMASI,Lektor Kepala,2022-09-10,Aktif
+0901000006,Rizky Pratama,Perempuan,Teknologi Informasi,Asisten Ahli,16/04/2012,Aktif
+0901000007,Zahra Santoso,Laki-laki,Teknologi Informasi,Lektor Kepala,2020-05-12,Aktif
+0901000008,Rani Kurniawan,L,TI,Asisten Ahli,2012-09-02,Aktif
+0901000009,Nabila Rasyid,L,Teknologi Informasi,Lektor,09-Dec-2012,Aktif
+0901000010,Rafi Putra,Laki-laki,Teknologi Informasi,Lektor Kepala,2012-05-28,Aktif
+0901000011,Nabila Kurniawan,Laki-laki,Teknologi Informasi,Lektor Kepala,2012-04-22,Aktif
+0901000012,Nur Wahyuni Wibowo,P,Teknologi Informasi,Asisten Ahli,13/02/2020,Aktif
+0901000013,Grace Febriani,L,Teknologi Informasi,Lektor Kepala,2012-04-21,Aktif
+0901000014,Dimas Ramadhan Gunawan,P,TI,Lektor Kepala,03/03/2013,Aktif
+0901000015,Ahmad Santoso Halim,Laki-laki,Tek. Informasi,Lektor,2011-03-24,Aktif
+0901000016,Vina Wijaya Wibowo,Laki-laki,Teknologi Informasi,Lektor Kepala,2016-03-02,Aktif
+0902000001,Siti Aziz Gunawan,L,Sistem Informasi,Lektor Kepala,09-Jan-2011,Aktif
+0902000002,Aulia Fauzi Permatasari,P,Sistem Informasi,Asisten Ahli,2020-04-01,Aktif
+0902000003,Ilham Kurniawan,P,Sistem Informasi,Lektor,2014-02-12,Aktif
+0902000004,Aisyah Ramadhan Azzahra,Perempuan,Sistem Informasi,Lektor,24/07/2016,Aktif
+0902000005,Tiara Setiawan Karim,Laki-laki,Sistem Informasi,Asisten Ahli,2019-08-17,Aktif
+0902000006,Lukman Wahyuni,Perempuan,Sistem Informasi,Asisten Ahli,2010-05-18,Aktif
+0902000007,Siti Ningsih Halim,L,Sistem Informasi,Lektor Kepala,2019-02-24,Aktif
+0902000008,Yoga Permana Setiaji,L,SI,Lektor,2020-08-14,Aktif
+0902000009,Alya Wahyuni Safitri,L,SI,Lektor Kepala,2014-08-25,Aktif
+0902000010,Nabila Lestari Kurniadi,Laki-laki,Sistem Informasi,Lektor,2017-06-23,Aktif
+0902000011,Nisa Febriani Safitri,P,Sistem Informasi,Lektor Kepala,2019-06-24,Aktif
+0902000012,Wulan Ningsih Mahendra,Perempuan,Sistem Informasi,Lektor Kepala,26/04/2020,Aktif
+0902000013,Grace Setiawan Oktaviani,P,Sistem Informasi,Lektor,2016-04-02,Aktif
+0902000014,Dian Febriani Pamungkas,L,Sistem Informasi,Lektor Kepala,2021-07-17,Aktif
+0902000015,Yoga Hidayat,P,SISTEM INFORMASI,Asisten Ahli,2020-11-07,Aktif
+0902000016,Fauzan Rasyid Wibowo,Perempuan,Sistem Informasi,Lektor,06/02/2021,Aktif
+0903000001,Anisa Fauzi,P,informatika,Lektor Kepala,10/05/2016,Aktif
+0903000002,Rafi Hakim Herlambang,Perempuan,Informatika,Asisten Ahli,2013-05-13,Aktif
+0903000003,Rizky Hidayat,L,Informatika,Lektor Kepala,07-Jun-2020,Aktif
+0903000004,Rizky Rasyid Kurniadi,Perempuan,Informatika,Asisten Ahli,2018-07-08,Aktif
+0903000005,Raka Kurniawan Hasan,Laki-laki,Informatika,Lektor Kepala,2019-09-04,Aktif
+0903000006,Nadia Hidayat,L,Informatika,Lektor,2022-12-19,Aktif
+0903000007,Dewi Maulana,Laki-laki,Informatika,Asisten Ahli,2021-12-28,Aktif
+0903000008,Fajar Sari,Perempuan,Informatika,Lektor Kepala,2011-03-08,Aktif
+0903000009,Raka Putra Fadillah,Perempuan,IF,Lektor Kepala,02/04/2020,Aktif
+0903000010,Anisa Putri,L,Informatika,Lektor Kepala,10/01/2015,Aktif
+0903000011,Aisyah Pratama Melati,P,Informatika,Lektor,2013-03-16,Aktif
+0903000012,Anisa Hakim Wibowo,Perempuan,Informatika,Lektor,2019-11-12,Aktif
+0903000013,Aulia Purnama,L,Informatika,Asisten Ahli,2021-10-04,Aktif
+0903000014,Rani Febriani,Perempuan,Teknik Informatika,Lektor,2017-02-17,Aktif
+0903000015,Maya Hidayat,L,Informatika,Lektor Kepala,2017-03-11,Aktif
+0903000016,Grace Fauzi Safitri,P,Informatika,Asisten Ahli,10/04/2019,Aktif
+0904000001,Aulia Sari Setiaji,P,Sains Data,Lektor,2020-10-07,Aktif
+0904000002,Bagas Wahyuni,L,Sains Data,Lektor,2021-07-18,Aktif
+0904000003,Arif Hakim,Perempuan,Sains Data,Lektor,2021-03-21,Aktif
+0904000004,Rizky Lestari Herlambang,L,Sains Data,Lektor Kepala,2016-01-02,Aktif
+0904000005,Intan Febriani,Perempuan,DS,Asisten Ahli,2015-10-07,Aktif
+0904000006,Nisa Wahyuni Azzahra,Laki-laki,DS,Lektor,25/07/2015,Aktif
+0904000007,Arif Ningsih,Laki-laki,DS,Lektor,2021-07-11,Aktif
+0904000008,Reza Hidayat Hasan,Laki-laki,Sains data,Lektor Kepala,2022-07-20,Aktif
+0904000009,Putri Anggraini Kurniadi,Laki-laki,DS,Lektor,2022-07-05,Aktif
+0904000010,Aulia Maharani,Perempuan,Sains Data,Lektor,25-Nov-2022,Aktif
+0904000011,Yoga Kurniawan Mulyani,L,Data Science,Lektor,2016-10-04,Aktif
+0904000012,Akbar Maulana Kusuma,L,Sains Data,Asisten Ahli,2020-05-14,Aktif
+0904000013,Putri Hakim Herlambang,Laki-laki,Sains Data,Asisten Ahli,25-Jul-2020,Aktif
+0904000014,Intan Yusuf,Laki-laki,Sains Data,Asisten Ahli,2021-04-24,Aktif
+0904000015,Grace Hidayat,P,Sains Data,Lektor,2011-02-19,Aktif
+0904000016,Ilham Fauzi Melati,Perempuan,Sains Data,Lektor Kepala,02/08/2019,Aktif
+0905000001,Kevin Yusuf Susanti,Perempuan,Teknologi Rekayasa Komputer,Lektor,01-Jun-2013,Aktif
+0905000002,Grace Permana,Laki-laki,Teknologi Rekayasa Komputer,Lektor,02/01/2014,Aktif
+0905000003,Vina Rasyid,Perempuan,Teknologi Rekayasa Komputer,Lektor Kepala,2013-06-09,Aktif
+0905000004,Vina Maharani,Perempuan,Teknologi Rekayasa Komputer,Lektor Kepala,2016-05-02,Aktif
+0905000005,Aditya Maharani,L,Tek. Rekayasa Komputer,Asisten Ahli,2020-08-19,Aktif
+0905000006,Fauzan Aziz,P,Teknologi Rekayasa Komputer,Lektor,2021-12-08,Aktif
+0905000007,Taufik Ningsih,P,Teknologi Rekayasa Komputer,Lektor Kepala,2020-05-21,Aktif
+0905000008,Aisyah Rasyid Setiaji,L,Teknologi Rekayasa Komputer,Lektor Kepala,2014-08-16,Aktif
+0905000009,Muhammad Febriani Syahputra,Laki-laki,TR,Lektor,04/11/2021,Aktif
+0905000010,Hafiz Maulana Iskandar,P,Teknologi Rekayasa Komputer,Lektor,2020-06-16,Aktif
+0905000011,Wulan Sari,Laki-laki,Teknologi Rekayasa Komputer,Lektor,21/02/2010,Aktif
+0905000012,Farhan Ananda,Laki-laki,Tek. Rekayasa Komputer,Lektor Kepala,2010-06-14,Aktif
+0905000013,Akbar Maharani,P,Teknologi Rekayasa Komputer,Asisten Ahli,2017-12-28,Aktif
+0905000014,Rani Maharani,Perempuan,TR,Lektor Kepala,15-Jun-2016,Aktif
+0905000015,Maya Putri Pamungkas,P,Teknologi Rekayasa Komputer,Lektor,28/03/2013,Aktif
+0905000016,Anisa Putra Nugroho,Laki-laki,Teknologi Rekayasa Komputer,Lektor,2010-04-11,Aktif
+0906000001,Rafi Pratama Permatasari,Perempuan,Bisnis Digital,Lektor Kepala,2012-04-25,Aktif
+0906000002,Farhan Ramadhan Prasetyo,P,Bisnis Digital,Lektor,2011-04-15,Aktif
+0906000003,Muhammad Aziz Wardana,P,Bisnis Digital,Asisten Ahli,2020-05-27,Aktif
+0906000004,Galih Ningsih,Laki-laki,Bisnis Digital,Lektor,2022-06-13,Aktif
+0906000005,Syifa Maulana Halim,Perempuan,Bisnis Digital,Asisten Ahli,2016-01-16,Aktif
+0906000006,Muhammad Utami,L,Bisnis Digital,Lektor Kepala,2014-01-14,Aktif
+0906000007,Aisyah Wahyuni Setiaji,Perempuan,Bisnis Digital,Lektor,05-Dec-2017,Aktif
+0906000008,Anisa Nugraha Permatasari,P,BD,Asisten Ahli,09/10/2017,Aktif
+0906000009,Raka Putri,P,Bisnis Digital,Asisten Ahli,2014-06-11,Aktif
+0906000010,Dimas Lestari Mulyani,Laki-laki,Bisnis Digital,Lektor Kepala,2012-12-10,Aktif
+0906000011,Hafiz Wijaya Azzahra,L,Bisnis Digital,Lektor,2015-08-14,Aktif
+0906000012,Maya Ningsih,L,Bisnis Digital,Lektor Kepala,2010-12-12,Aktif
+0906000013,Grace Setiawan,P,Bisnis Digital,Lektor,2017-06-11,Aktif
+0906000014,Taufik Purnama Wibowo,P,Bisnis digital,Lektor Kepala,2015-09-28,Aktif
+0906000015,Akbar Santoso Fadillah,L,BD,Asisten Ahli,2010-10-02,Aktif
+0906000016,Arif Febriani,Laki-laki,BD,Lektor Kepala,03/05/2011,Aktif

@@ -67,7 +67,7 @@ CREATE SCHEMA IF NOT EXISTS src;
 
 SELECT schema_name
 FROM information_schema.schemata
-WHERE schema_name = 'src;
+WHERE schema_name = 'src';
 ```
 
 ## 8. Guided Excercise B - Mengimpor CSV
@@ -83,25 +83,15 @@ WHERE schema_name = 'src;
 Jalankan query berikut untuk memastikan lima tabel telah berisi data. Jangan membandingkan hasil dengan teman sebelum seluruh file selesai diimpor.
 ```sql
 SELECT 'program_studi' AS tabel, COUNT(*) AS jumlah_baris
-
 FROM src.program_studi
-
 UNION ALL
-
 SELECT 'semester', COUNT(*) FROM src.semester
-
 UNION ALL
-
 SELECT 'mahasiswa', COUNT(*) FROM src.mahasiswa
-
 UNION ALL
-
 SELECT 'dosen', COUNT(*) FROM src.dosen
-
 UNION ALL
-
 SELECT 'mata_kuliah', COUNT(*) FROM src.mata_kuliah;
-
 ```
 | Tabel           | Jumlah Baris | Jumlah Kolom | Natural Key Candidat | Peran Bisnis |
 | --------------- | ------------ | ------------ | -------------------- | ------------ |
